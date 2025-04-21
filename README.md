@@ -1,13 +1,22 @@
-ey Cleaning Decisions Made:
+# Medical Appointment No Shows - Data Cleaning
 
-Missing Data: Critical columns with missing values were dropped, while less critical ones were imputed
+This repository contains the data cleaning and preprocessing steps for the Medical Appointment No Shows dataset from Kaggle.
 
-Data Types: Ensured dates are datetime objects and categorical variables are standardized
+## Files
+- `data_cleaning.py`: Python script for cleaning the data
+- `cleaned_medical_appointments.csv`: Cleaned dataset
+- `KaggleV2-May-2016.csv`: Original dataset (if included)
+- `requirements.txt`: Dependencies
+- (Python 3.x,Pandas,NumPyJupyter Notebook)
 
-Age Data: Removed negative ages which are biologically impossible
+## Cleaning Steps
+1. Handled missing values (though original dataset had none)
+2. Removed duplicate records
+3. Converted date columns to proper datetime format
+4. Standardized categorical variables (No-show to binary)
+5. Handled age outliers
+6. Added new features (waiting days, day of week)
 
-Handcap Variable: Converted to binary (0/1) for consistency
-
-Duplicates: Removed exact duplicate appointments while flagging potential patient-day duplicates
-
-New Features: Added calculated fields like wait time and age groups for analysis
+## Usage
+1. Install requirements: `pip install -r requirements.txt`
+2. Run the cleaning script: `python data_cleaning.py`
