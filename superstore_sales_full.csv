@@ -1,0 +1,101 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+CA-2017-1000,2021-01-01,2021-01-03,Standard Class,CUST-100,John Smith,Consumer,United States,New York,New York,42049,East,P-1000,Technology,Chairs,Product B,114.21,2,0.13,32.26
+CA-2017-1001,2021-01-02,2021-01-04,Standard Class,CUST-101,Alice Johnson,Consumer,United States,Seattle,Washington,47131,East,P-1001,Technology,Phones,Product A,262.44,1,0.24,182.9
+CA-2017-1002,2021-01-03,2021-01-05,Second Class,CUST-102,John Smith,Consumer,United States,Los Angeles,California,52944,East,P-1002,Furniture,Chairs,Product D,488.02,5,0.22,133.8
+CA-2017-1003,2021-01-04,2021-01-06,Standard Class,CUST-103,Jane Doe,Consumer,United States,San Francisco,California,83963,South,P-1003,Technology,Storage,Product B,234.9,9,0.02,20.35
+CA-2017-1004,2021-01-05,2021-01-07,First Class,CUST-104,Jane Doe,Corporate,United States,San Francisco,California,34285,Central,P-1004,Office Supplies,Storage,Product B,283.08,6,0.14,13.16
+CA-2017-1005,2021-01-06,2021-01-08,Second Class,CUST-105,Jane Doe,Consumer,United States,Los Angeles,California,47626,East,P-1005,Office Supplies,Storage,Product A,431.71,7,0.16,-48.73
+CA-2017-1006,2021-01-07,2021-01-09,Standard Class,CUST-106,Bob Brown,Consumer,United States,Los Angeles,Texas,52808,South,P-1006,Technology,Chairs,Product A,272.18,5,0.19,123.93
+CA-2017-1007,2021-01-08,2021-01-10,Second Class,CUST-107,John Smith,Home Office,United States,San Francisco,California,98464,East,P-1007,Technology,Chairs,Product C,100.39,6,0.2,-37.8
+CA-2017-1008,2021-01-09,2021-01-11,First Class,CUST-108,Bob Brown,Consumer,United States,San Francisco,Texas,63871,West,P-1008,Office Supplies,Chairs,Product D,156.8,5,0.11,83.15
+CA-2017-1009,2021-01-10,2021-01-12,Second Class,CUST-109,Bob Brown,Home Office,United States,Los Angeles,Texas,29198,East,P-1009,Office Supplies,Chairs,Product D,161.87,9,0.17,190.53
+CA-2017-1010,2021-01-11,2021-01-13,Second Class,CUST-110,Jane Doe,Corporate,United States,San Francisco,California,29758,East,P-1010,Furniture,Storage,Product C,204.69,6,0.14,-22.63
+CA-2017-1011,2021-01-12,2021-01-14,Second Class,CUST-111,Jane Doe,Consumer,United States,New York,California,25254,Central,P-1011,Office Supplies,Storage,Product D,219.13,8,0.27,173.62
+CA-2017-1012,2021-01-13,2021-01-15,Second Class,CUST-112,Bob Brown,Home Office,United States,New York,New York,54238,South,P-1012,Office Supplies,Phones,Product D,401.89,2,0.16,197.87
+CA-2017-1013,2021-01-14,2021-01-16,First Class,CUST-113,John Smith,Home Office,United States,Los Angeles,Washington,11252,Central,P-1013,Technology,Phones,Product D,181.2,9,0.13,-34.62
+CA-2017-1014,2021-01-15,2021-01-17,Same Day,CUST-114,Alice Johnson,Corporate,United States,Seattle,California,49764,Central,P-1014,Office Supplies,Chairs,Product D,239.43,5,0.12,170.73
+CA-2017-1015,2021-01-16,2021-01-18,Second Class,CUST-115,Bob Brown,Consumer,United States,Los Angeles,New York,87709,Central,P-1015,Furniture,Binders,Product D,316.24,7,0.17,79.02
+CA-2017-1016,2021-01-17,2021-01-19,Second Class,CUST-116,John Smith,Consumer,United States,Los Angeles,New York,47441,Central,P-1016,Office Supplies,Binders,Product A,195.09,1,0.24,176.63
+CA-2017-1017,2021-01-18,2021-01-20,Standard Class,CUST-117,Jane Doe,Home Office,United States,Seattle,Washington,63682,Central,P-1017,Technology,Storage,Product D,419.92,5,0.16,92.83
+CA-2017-1018,2021-01-19,2021-01-21,Second Class,CUST-118,Jane Doe,Consumer,United States,Seattle,Texas,69494,East,P-1018,Technology,Storage,Product A,297.85,2,0.2,115.53
+CA-2017-1019,2021-01-20,2021-01-22,Standard Class,CUST-119,John Smith,Home Office,United States,Seattle,California,91317,Central,P-1019,Office Supplies,Storage,Product D,154.08,6,0.22,85.94
+CA-2017-1020,2021-01-21,2021-01-23,Same Day,CUST-120,Alice Johnson,Consumer,United States,New York,Washington,75215,Central,P-1020,Technology,Phones,Product C,359.89,1,0.16,166.12
+CA-2017-1021,2021-01-22,2021-01-24,First Class,CUST-121,Jane Doe,Home Office,United States,San Francisco,California,88587,South,P-1021,Furniture,Phones,Product B,268.55,3,0.13,133.48
+CA-2017-1022,2021-01-23,2021-01-25,First Class,CUST-122,Jane Doe,Consumer,United States,New York,New York,16949,West,P-1022,Furniture,Storage,Product A,271.88,5,0.26,80.32
+CA-2017-1023,2021-01-24,2021-01-26,Same Day,CUST-123,Jane Doe,Corporate,United States,San Francisco,New York,65393,East,P-1023,Office Supplies,Storage,Product D,245.73,4,0.13,167.04
+CA-2017-1024,2021-01-25,2021-01-27,First Class,CUST-124,John Smith,Consumer,United States,New York,Texas,83553,East,P-1024,Office Supplies,Storage,Product C,253.54,3,0.14,11.32
+CA-2017-1025,2021-01-26,2021-01-28,Same Day,CUST-125,Bob Brown,Consumer,United States,San Francisco,New York,16941,East,P-1025,Office Supplies,Binders,Product B,385.02,5,0.3,-10.66
+CA-2017-1026,2021-01-27,2021-01-29,Same Day,CUST-126,Jane Doe,Corporate,United States,New York,New York,35934,Central,P-1026,Technology,Phones,Product A,60.46,8,0.0,-9.9
+CA-2017-1027,2021-01-28,2021-01-30,Same Day,CUST-127,Bob Brown,Consumer,United States,Seattle,Washington,33386,Central,P-1027,Furniture,Binders,Product B,173.84,4,0.06,33.5
+CA-2017-1028,2021-01-29,2021-01-31,First Class,CUST-128,Alice Johnson,Corporate,United States,Los Angeles,California,71886,Central,P-1028,Furniture,Binders,Product C,47.0,1,0.12,9.67
+CA-2017-1029,2021-01-30,2021-02-01,Standard Class,CUST-129,Jane Doe,Consumer,United States,New York,California,85745,South,P-1029,Technology,Storage,Product A,379.09,7,0.28,182.52
+CA-2017-1030,2021-01-31,2021-02-02,Same Day,CUST-130,Jane Doe,Home Office,United States,San Francisco,Washington,93251,West,P-1030,Furniture,Storage,Product B,143.43,8,0.02,-23.54
+CA-2017-1031,2021-02-01,2021-02-03,Second Class,CUST-131,Alice Johnson,Home Office,United States,Seattle,Texas,63413,Central,P-1031,Office Supplies,Chairs,Product D,449.74,3,0.0,124.75
+CA-2017-1032,2021-02-02,2021-02-04,First Class,CUST-132,Jane Doe,Consumer,United States,New York,California,66800,West,P-1032,Office Supplies,Chairs,Product A,268.02,6,0.02,-2.69
+CA-2017-1033,2021-02-03,2021-02-05,Same Day,CUST-133,Bob Brown,Consumer,United States,New York,New York,52318,South,P-1033,Office Supplies,Binders,Product B,402.37,2,0.03,170.41
+CA-2017-1034,2021-02-04,2021-02-06,Same Day,CUST-134,John Smith,Consumer,United States,Seattle,California,80173,East,P-1034,Furniture,Phones,Product C,489.68,7,0.01,190.33
+CA-2017-1035,2021-02-05,2021-02-07,Second Class,CUST-135,Bob Brown,Home Office,United States,New York,New York,80390,Central,P-1035,Office Supplies,Storage,Product C,421.5,8,0.14,66.37
+CA-2017-1036,2021-02-06,2021-02-08,Standard Class,CUST-136,John Smith,Consumer,United States,Los Angeles,Texas,62329,West,P-1036,Technology,Storage,Product A,434.83,6,0.17,169.77
+CA-2017-1037,2021-02-07,2021-02-09,Standard Class,CUST-137,John Smith,Home Office,United States,New York,Washington,53088,West,P-1037,Technology,Binders,Product B,209.91,6,0.08,-48.71
+CA-2017-1038,2021-02-08,2021-02-10,Standard Class,CUST-138,Bob Brown,Corporate,United States,Los Angeles,California,49811,Central,P-1038,Furniture,Chairs,Product A,280.34,5,0.12,154.99
+CA-2017-1039,2021-02-09,2021-02-11,Same Day,CUST-139,Bob Brown,Home Office,United States,Los Angeles,Washington,65479,East,P-1039,Technology,Phones,Product A,134.41,8,0.03,7.16
+CA-2017-1040,2021-02-10,2021-02-12,Same Day,CUST-140,Bob Brown,Home Office,United States,Seattle,California,95392,East,P-1040,Technology,Chairs,Product B,106.1,1,0.1,177.18
+CA-2017-1041,2021-02-11,2021-02-13,Same Day,CUST-141,Bob Brown,Corporate,United States,New York,New York,97369,East,P-1041,Furniture,Chairs,Product B,257.7,4,0.16,-49.72
+CA-2017-1042,2021-02-12,2021-02-14,First Class,CUST-142,Alice Johnson,Home Office,United States,Seattle,Washington,29963,South,P-1042,Office Supplies,Chairs,Product D,301.57,4,0.22,89.05
+CA-2017-1043,2021-02-13,2021-02-15,Second Class,CUST-143,Jane Doe,Consumer,United States,New York,California,65123,West,P-1043,Office Supplies,Chairs,Product B,176.24,3,0.0,139.16
+CA-2017-1044,2021-02-14,2021-02-16,Same Day,CUST-144,John Smith,Consumer,United States,New York,New York,83477,West,P-1044,Office Supplies,Storage,Product C,289.03,3,0.14,14.67
+CA-2017-1045,2021-02-15,2021-02-17,Second Class,CUST-145,Bob Brown,Home Office,United States,San Francisco,Washington,24388,West,P-1045,Furniture,Storage,Product A,444.86,4,0.09,-1.72
+CA-2017-1046,2021-02-16,2021-02-18,Second Class,CUST-146,Bob Brown,Consumer,United States,New York,Washington,15569,South,P-1046,Technology,Chairs,Product A,282.79,1,0.26,-28.98
+CA-2017-1047,2021-02-17,2021-02-19,Standard Class,CUST-147,Bob Brown,Home Office,United States,Seattle,California,79836,West,P-1047,Office Supplies,Phones,Product C,363.2,2,0.21,31.61
+CA-2017-1048,2021-02-18,2021-02-20,First Class,CUST-148,Alice Johnson,Consumer,United States,Los Angeles,California,46586,South,P-1048,Office Supplies,Binders,Product B,404.6,9,0.18,89.96
+CA-2017-1049,2021-02-19,2021-02-21,Same Day,CUST-149,Bob Brown,Consumer,United States,New York,California,22015,East,P-1049,Furniture,Phones,Product C,494.48,2,0.08,-21.04
+CA-2017-1050,2021-02-20,2021-02-22,Standard Class,CUST-150,Bob Brown,Home Office,United States,San Francisco,New York,55002,Central,P-1050,Office Supplies,Phones,Product C,305.57,5,0.27,44.17
+CA-2017-1051,2021-02-21,2021-02-23,Standard Class,CUST-151,Bob Brown,Consumer,United States,Seattle,California,16254,West,P-1051,Furniture,Phones,Product D,405.36,9,0.01,-47.73
+CA-2017-1052,2021-02-22,2021-02-24,Same Day,CUST-152,Jane Doe,Home Office,United States,New York,Washington,27144,West,P-1052,Technology,Chairs,Product C,481.7,9,0.03,154.67
+CA-2017-1053,2021-02-23,2021-02-25,Second Class,CUST-153,Alice Johnson,Consumer,United States,Seattle,Washington,34214,East,P-1053,Furniture,Storage,Product A,472.76,8,0.12,-17.89
+CA-2017-1054,2021-02-24,2021-02-26,Standard Class,CUST-154,Bob Brown,Consumer,United States,San Francisco,California,90719,Central,P-1054,Furniture,Phones,Product C,79.13,1,0.04,20.84
+CA-2017-1055,2021-02-25,2021-02-27,Second Class,CUST-155,John Smith,Corporate,United States,San Francisco,California,81774,South,P-1055,Furniture,Chairs,Product A,209.13,1,0.29,-45.39
+CA-2017-1056,2021-02-26,2021-02-28,First Class,CUST-156,John Smith,Corporate,United States,Seattle,Texas,16090,Central,P-1056,Furniture,Phones,Product A,168.76,9,0.24,58.06
+CA-2017-1057,2021-02-27,2021-03-01,Second Class,CUST-157,John Smith,Home Office,United States,New York,Washington,21637,East,P-1057,Technology,Phones,Product A,52.59,8,0.08,160.03
+CA-2017-1058,2021-02-28,2021-03-02,First Class,CUST-158,Alice Johnson,Corporate,United States,Los Angeles,New York,32415,East,P-1058,Technology,Chairs,Product B,320.29,9,0.18,48.04
+CA-2017-1059,2021-03-01,2021-03-03,Second Class,CUST-159,Alice Johnson,Home Office,United States,San Francisco,Texas,34071,Central,P-1059,Office Supplies,Storage,Product D,370.59,7,0.29,-5.13
+CA-2017-1060,2021-03-02,2021-03-04,Standard Class,CUST-160,John Smith,Corporate,United States,New York,California,68243,South,P-1060,Technology,Storage,Product A,425.58,3,0.27,138.42
+CA-2017-1061,2021-03-03,2021-03-05,Standard Class,CUST-161,Bob Brown,Consumer,United States,New York,California,51240,South,P-1061,Technology,Binders,Product A,70.16,3,0.18,147.2
+CA-2017-1062,2021-03-04,2021-03-06,First Class,CUST-162,Alice Johnson,Home Office,United States,Los Angeles,Washington,93807,West,P-1062,Office Supplies,Chairs,Product B,439.46,2,0.27,-6.56
+CA-2017-1063,2021-03-05,2021-03-07,Same Day,CUST-163,John Smith,Home Office,United States,San Francisco,California,43434,South,P-1063,Technology,Binders,Product A,325.03,5,0.3,142.71
+CA-2017-1064,2021-03-06,2021-03-08,First Class,CUST-164,John Smith,Consumer,United States,San Francisco,New York,79724,Central,P-1064,Furniture,Binders,Product C,354.93,3,0.22,186.82
+CA-2017-1065,2021-03-07,2021-03-09,First Class,CUST-165,Bob Brown,Home Office,United States,New York,Washington,85697,East,P-1065,Furniture,Binders,Product C,456.21,6,0.02,-8.41
+CA-2017-1066,2021-03-08,2021-03-10,Second Class,CUST-166,Jane Doe,Home Office,United States,New York,California,38732,West,P-1066,Office Supplies,Storage,Product D,316.13,2,0.12,142.75
+CA-2017-1067,2021-03-09,2021-03-11,Second Class,CUST-167,Alice Johnson,Corporate,United States,Los Angeles,Washington,21314,West,P-1067,Office Supplies,Chairs,Product A,174.57,3,0.25,127.14
+CA-2017-1068,2021-03-10,2021-03-12,First Class,CUST-168,Bob Brown,Home Office,United States,Los Angeles,California,33954,East,P-1068,Office Supplies,Binders,Product B,414.3,5,0.07,68.39
+CA-2017-1069,2021-03-11,2021-03-13,Standard Class,CUST-169,John Smith,Consumer,United States,San Francisco,California,67108,South,P-1069,Furniture,Chairs,Product C,187.9,1,0.25,-35.52
+CA-2017-1070,2021-03-12,2021-03-14,Second Class,CUST-170,John Smith,Corporate,United States,Seattle,California,97044,East,P-1070,Technology,Chairs,Product B,26.77,1,0.04,-31.33
+CA-2017-1071,2021-03-13,2021-03-15,Same Day,CUST-171,Bob Brown,Corporate,United States,San Francisco,New York,97505,South,P-1071,Furniture,Storage,Product B,417.02,9,0.01,163.1
+CA-2017-1072,2021-03-14,2021-03-16,Second Class,CUST-172,Alice Johnson,Consumer,United States,New York,New York,46668,East,P-1072,Office Supplies,Binders,Product C,179.14,7,0.12,197.54
+CA-2017-1073,2021-03-15,2021-03-17,Second Class,CUST-173,Jane Doe,Consumer,United States,San Francisco,Washington,33061,Central,P-1073,Technology,Binders,Product B,389.18,1,0.01,119.01
+CA-2017-1074,2021-03-16,2021-03-18,Same Day,CUST-174,Jane Doe,Corporate,United States,Seattle,California,89252,South,P-1074,Technology,Chairs,Product C,187.75,8,0.29,61.49
+CA-2017-1075,2021-03-17,2021-03-19,First Class,CUST-175,John Smith,Home Office,United States,Los Angeles,California,49749,Central,P-1075,Furniture,Phones,Product B,431.92,3,0.25,111.89
+CA-2017-1076,2021-03-18,2021-03-20,Same Day,CUST-176,Alice Johnson,Corporate,United States,Seattle,New York,26907,West,P-1076,Office Supplies,Storage,Product C,117.56,8,0.24,98.6
+CA-2017-1077,2021-03-19,2021-03-21,First Class,CUST-177,Jane Doe,Consumer,United States,Seattle,California,28777,East,P-1077,Furniture,Storage,Product A,487.53,5,0.19,45.9
+CA-2017-1078,2021-03-20,2021-03-22,First Class,CUST-178,Alice Johnson,Corporate,United States,Seattle,New York,61745,West,P-1078,Technology,Storage,Product D,392.08,1,0.06,-33.59
+CA-2017-1079,2021-03-21,2021-03-23,First Class,CUST-179,Alice Johnson,Consumer,United States,Los Angeles,California,91818,West,P-1079,Furniture,Storage,Product C,65.98,7,0.16,155.38
+CA-2017-1080,2021-03-22,2021-03-24,Same Day,CUST-180,John Smith,Corporate,United States,Seattle,Washington,33624,West,P-1080,Furniture,Binders,Product C,287.23,5,0.18,42.96
+CA-2017-1081,2021-03-23,2021-03-25,First Class,CUST-181,Jane Doe,Home Office,United States,Seattle,California,33321,West,P-1081,Office Supplies,Binders,Product D,492.83,6,0.16,154.7
+CA-2017-1082,2021-03-24,2021-03-26,Standard Class,CUST-182,Bob Brown,Corporate,United States,Seattle,California,20488,East,P-1082,Office Supplies,Phones,Product C,240.82,6,0.08,13.13
+CA-2017-1083,2021-03-25,2021-03-27,Same Day,CUST-183,John Smith,Corporate,United States,New York,Texas,32574,West,P-1083,Technology,Storage,Product C,99.23,8,0.15,-49.74
+CA-2017-1084,2021-03-26,2021-03-28,Standard Class,CUST-184,Jane Doe,Consumer,United States,Seattle,New York,15240,East,P-1084,Furniture,Storage,Product B,247.54,9,0.15,-10.27
+CA-2017-1085,2021-03-27,2021-03-29,First Class,CUST-185,Jane Doe,Consumer,United States,Los Angeles,California,53221,East,P-1085,Furniture,Chairs,Product D,261.1,2,0.3,67.13
+CA-2017-1086,2021-03-28,2021-03-30,Second Class,CUST-186,Jane Doe,Consumer,United States,Seattle,California,20478,Central,P-1086,Furniture,Binders,Product A,373.43,9,0.27,186.08
+CA-2017-1087,2021-03-29,2021-03-31,First Class,CUST-187,Jane Doe,Corporate,United States,Seattle,Texas,65645,South,P-1087,Technology,Storage,Product C,352.43,9,0.14,-24.45
+CA-2017-1088,2021-03-30,2021-04-01,Standard Class,CUST-188,Jane Doe,Home Office,United States,Los Angeles,Texas,29262,South,P-1088,Technology,Phones,Product D,207.25,7,0.19,163.55
+CA-2017-1089,2021-03-31,2021-04-02,Standard Class,CUST-189,Alice Johnson,Consumer,United States,Seattle,New York,62796,East,P-1089,Office Supplies,Phones,Product B,116.83,1,0.22,81.76
+CA-2017-1090,2021-04-01,2021-04-03,Same Day,CUST-190,John Smith,Consumer,United States,Los Angeles,Texas,14432,Central,P-1090,Office Supplies,Binders,Product A,326.08,7,0.01,156.48
+CA-2017-1091,2021-04-02,2021-04-04,Second Class,CUST-191,Alice Johnson,Corporate,United States,Seattle,Washington,74291,East,P-1091,Office Supplies,Phones,Product D,216.63,5,0.27,24.59
+CA-2017-1092,2021-04-03,2021-04-05,Same Day,CUST-192,Bob Brown,Consumer,United States,Los Angeles,Texas,89104,East,P-1092,Furniture,Phones,Product A,74.82,6,0.26,159.99
+CA-2017-1093,2021-04-04,2021-04-06,Standard Class,CUST-193,Jane Doe,Home Office,United States,Seattle,Washington,69399,East,P-1093,Furniture,Binders,Product A,451.28,7,0.14,143.21
+CA-2017-1094,2021-04-05,2021-04-07,First Class,CUST-194,John Smith,Home Office,United States,Seattle,New York,89714,Central,P-1094,Office Supplies,Storage,Product A,348.7,5,0.12,7.51
+CA-2017-1095,2021-04-06,2021-04-08,Second Class,CUST-195,Jane Doe,Consumer,United States,New York,New York,60428,South,P-1095,Furniture,Storage,Product C,344.76,7,0.08,-17.17
+CA-2017-1096,2021-04-07,2021-04-09,First Class,CUST-196,John Smith,Consumer,United States,New York,New York,97731,Central,P-1096,Office Supplies,Phones,Product C,413.07,9,0.14,167.01
+CA-2017-1097,2021-04-08,2021-04-10,First Class,CUST-197,Alice Johnson,Corporate,United States,Seattle,New York,10302,West,P-1097,Technology,Phones,Product B,269.53,3,0.01,190.81
+CA-2017-1098,2021-04-09,2021-04-11,Second Class,CUST-198,John Smith,Home Office,United States,Seattle,New York,92558,Central,P-1098,Office Supplies,Storage,Product B,409.38,8,0.26,-42.17
+CA-2017-1099,2021-04-10,2021-04-12,Same Day,CUST-199,Bob Brown,Home Office,United States,San Francisco,Washington,10055,Central,P-1099,Technology,Binders,Product D,254.06,2,0.01,132.82
