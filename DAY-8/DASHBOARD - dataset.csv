@@ -1,0 +1,732 @@
+Date,Entity Name,Product,Category,Location,Sales,Cost,Margin,Expenses,Profit,Margin %,Profit %
+01-Jan-2023,Gadget Galaxy, Business Cards ,Stationery,New Jersey,$238.00,$82.00,$156.00,$69.00,$87.00,65.55%,36.55%
+02-Jan-2023,TechGiant Outlet, Business Cards ,Stationery,Colorado,$231.00,$58.00,$173.00,$77.00,$96.00,74.89%,41.56%
+03-Jan-2023,ElectroHub, Hoodies ,Apparel,Arizona,$262.00,$107.00,$155.00,$67.00,$88.00,59.16%,33.59%
+04-Jan-2023,Digital Dreams, Business Cards ,Stationery,Colorado,$208.00,$82.00,$126.00,$57.00,$69.00,60.58%,33.17%
+05-Jan-2023,ElectroHub, Phone Cases ,Accessories,New Jersey,$222.00,$65.00,$157.00,$55.00,$102.00,70.72%,45.95%
+06-Jan-2023,Circuit City Central, Phone Cases ,Accessories,New Jersey,$297.00,$78.00,$219.00,$74.00,$145.00,73.74%,48.82%
+07-Jan-2023,Digital Dreams, Mouse Pads ,Accessories,Texas,$151.00,$97.00,$54.00,$75.00,-$21.00,35.76%,-13.91%
+08-Jan-2023,Gadget Galaxy, Mouse Pads ,Accessories,Colorado,$236.00,$98.00,$138.00,$69.00,$69.00,58.47%,29.24%
+09-Jan-2023,Gadget Galaxy, Letterheads ,Stationery,Colorado,$196.00,$117.00,$79.00,$52.00,$27.00,40.31%,13.78%
+10-Jan-2023,TechGiant Outlet, T Shirts ,Apparel,New Jersey,$232.00,$103.00,$129.00,$72.00,$57.00,55.60%,24.57%
+11-Jan-2023,ElectroHub, T Shirts ,Apparel,Colorado,$194.00,$117.00,$77.00,$78.00,-$1.00,39.69%,-0.52%
+12-Jan-2023,TechGiant Outlet, Hoodies ,Apparel,New Jersey,$187.00,$110.00,$77.00,$50.00,$27.00,41.18%,14.44%
+13-Jan-2023,Circuit City Central, Hoodies ,Apparel,New Jersey,$189.00,$89.00,$100.00,$55.00,$45.00,52.91%,23.81%
+14-Jan-2023,ElectroHub, Phone Cases ,Accessories,Florida,$242.00,$111.00,$131.00,$63.00,$68.00,54.13%,28.10%
+15-Jan-2023,Circuit City Central, Business Cards ,Stationery,Arizona,$201.00,$104.00,$97.00,$79.00,$18.00,48.26%,8.96%
+16-Jan-2023,TechGiant Outlet, Business Cards ,Stationery,Colorado,$285.00,$57.00,$228.00,$54.00,$174.00,80.00%,61.05%
+17-Jan-2023,Gadget Galaxy, Hoodies ,Apparel,Florida,$153.00,$53.00,$100.00,$69.00,$31.00,65.36%,20.26%
+18-Jan-2023,Digital Dreams, Mouse Pads ,Accessories,Florida,$151.00,$64.00,$87.00,$75.00,$12.00,57.62%,7.95%
+19-Jan-2023,ElectroHub, Phone Cases ,Accessories,Texas,$157.00,$55.00,$102.00,$74.00,$28.00,64.97%,17.83%
+20-Jan-2023,Gadget Galaxy, Business Cards ,Stationery,Texas,$255.00,$89.00,$166.00,$54.00,$112.00,65.10%,43.92%
+21-Jan-2023,Gadget Galaxy, Hoodies ,Apparel,Arizona,$186.00,$90.00,$96.00,$80.00,$16.00,51.61%,8.60%
+22-Jan-2023,TechGiant Outlet, T Shirts ,Apparel,Colorado,$264.00,$51.00,$213.00,$56.00,$157.00,80.68%,59.47%
+23-Jan-2023,Digital Dreams, Phone Cases ,Accessories,New Jersey,$286.00,$95.00,$191.00,$74.00,$117.00,66.78%,40.91%
+24-Jan-2023,Gadget Galaxy, Phone Cases ,Accessories,Florida,$217.00,$112.00,$105.00,$72.00,$33.00,48.39%,15.21%
+25-Jan-2023,ElectroHub, Mouse Pads ,Accessories,New Jersey,$222.00,$78.00,$144.00,$58.00,$86.00,64.86%,38.74%
+26-Jan-2023,Digital Dreams, Mouse Pads ,Accessories,Texas,$154.00,$119.00,$35.00,$58.00,-$23.00,22.73%,-14.94%
+27-Jan-2023,Circuit City Central, Mouse Pads ,Accessories,New Jersey,$161.00,$117.00,$44.00,$60.00,-$16.00,27.33%,-9.94%
+28-Jan-2023,Gadget Galaxy, T Shirts ,Apparel,Colorado,$226.00,$78.00,$148.00,$63.00,$85.00,65.49%,37.61%
+29-Jan-2023,TechGiant Outlet, Hoodies ,Apparel,Colorado,$184.00,$84.00,$100.00,$53.00,$47.00,54.35%,25.54%
+30-Jan-2023,Gadget Galaxy, Hoodies ,Apparel,Colorado,$294.00,$96.00,$198.00,$50.00,$148.00,67.35%,50.34%
+31-Jan-2023,Circuit City Central, T Shirts ,Apparel,Texas,$219.00,$119.00,$100.00,$62.00,$38.00,45.66%,17.35%
+01-Feb-2023,ElectroHub, Business Cards ,Stationery,Florida,$188.00,$115.00,$73.00,$76.00,-$3.00,38.83%,-1.60%
+02-Feb-2023,Digital Dreams, T Shirts ,Apparel,Arizona,$166.00,$100.00,$66.00,$67.00,-$1.00,39.76%,-0.60%
+03-Feb-2023,Circuit City Central, T Shirts ,Apparel,Texas,$233.00,$51.00,$182.00,$63.00,$119.00,78.11%,51.07%
+04-Feb-2023,ElectroHub, T Shirts ,Apparel,Florida,$274.00,$53.00,$221.00,$57.00,$164.00,80.66%,59.85%
+05-Feb-2023,Gadget Galaxy, Hoodies ,Apparel,Arizona,$204.00,$71.00,$133.00,$58.00,$75.00,65.20%,36.76%
+06-Feb-2023,Circuit City Central, Letterheads ,Stationery,Florida,$271.00,$107.00,$164.00,$59.00,$105.00,60.52%,38.75%
+07-Feb-2023,TechGiant Outlet, Phone Cases ,Accessories,Florida,$290.00,$58.00,$232.00,$62.00,$170.00,80.00%,58.62%
+08-Feb-2023,ElectroHub, Business Cards ,Stationery,Arizona,$218.00,$100.00,$118.00,$68.00,$50.00,54.13%,22.94%
+09-Feb-2023,Circuit City Central, Letterheads ,Stationery,Colorado,$258.00,$106.00,$152.00,$50.00,$102.00,58.91%,39.53%
+10-Feb-2023,Digital Dreams, T Shirts ,Apparel,Florida,$273.00,$50.00,$223.00,$71.00,$152.00,81.68%,55.68%
+11-Feb-2023,Gadget Galaxy, Mouse Pads ,Accessories,Colorado,$246.00,$97.00,$149.00,$52.00,$97.00,60.57%,39.43%
+12-Feb-2023,TechGiant Outlet, Letterheads ,Stationery,Colorado,$300.00,$74.00,$226.00,$66.00,$160.00,75.33%,53.33%
+13-Feb-2023,ElectroHub, Hoodies ,Apparel,Arizona,$226.00,$84.00,$142.00,$52.00,$90.00,62.83%,39.82%
+14-Feb-2023,Gadget Galaxy, Mouse Pads ,Accessories,Arizona,$158.00,$74.00,$84.00,$56.00,$28.00,53.16%,17.72%
+15-Feb-2023,TechGiant Outlet, Mouse Pads ,Accessories,Texas,$242.00,$58.00,$184.00,$50.00,$134.00,76.03%,55.37%
+16-Feb-2023,Digital Dreams, Letterheads ,Stationery,Florida,$263.00,$78.00,$185.00,$59.00,$126.00,70.34%,47.91%
+17-Feb-2023,Gadget Galaxy, Letterheads ,Stationery,Texas,$178.00,$52.00,$126.00,$60.00,$66.00,70.79%,37.08%
+18-Feb-2023,ElectroHub, T Shirts ,Apparel,Florida,$173.00,$69.00,$104.00,$66.00,$38.00,60.12%,21.97%
+19-Feb-2023,Gadget Galaxy, Letterheads ,Stationery,Texas,$260.00,$115.00,$145.00,$64.00,$81.00,55.77%,31.15%
+20-Feb-2023,Circuit City Central, Hoodies ,Apparel,Texas,$203.00,$83.00,$120.00,$50.00,$70.00,59.11%,34.48%
+21-Feb-2023,Digital Dreams, Business Cards ,Stationery,Colorado,$258.00,$89.00,$169.00,$71.00,$98.00,65.50%,37.98%
+22-Feb-2023,TechGiant Outlet, Business Cards ,Stationery,Florida,$226.00,$55.00,$171.00,$67.00,$104.00,75.66%,46.02%
+23-Feb-2023,ElectroHub, Business Cards ,Stationery,New Jersey,$204.00,$107.00,$97.00,$55.00,$42.00,47.55%,20.59%
+24-Feb-2023,Digital Dreams, Hoodies ,Apparel,Texas,$202.00,$74.00,$128.00,$77.00,$51.00,63.37%,25.25%
+25-Feb-2023,ElectroHub, T Shirts ,Apparel,Arizona,$211.00,$54.00,$157.00,$68.00,$89.00,74.41%,42.18%
+26-Feb-2023,Digital Dreams, Phone Cases ,Accessories,Florida,$200.00,$111.00,$89.00,$60.00,$29.00,44.50%,14.50%
+27-Feb-2023,Gadget Galaxy, Business Cards ,Stationery,Colorado,$246.00,$71.00,$175.00,$66.00,$109.00,71.14%,44.31%
+28-Feb-2023,ElectroHub, T Shirts ,Apparel,New Jersey,$232.00,$58.00,$174.00,$60.00,$114.00,75.00%,49.14%
+01-Mar-2023,Gadget Galaxy, T Shirts ,Apparel,Texas,$154.00,$101.00,$53.00,$80.00,-$27.00,34.42%,-17.53%
+02-Mar-2023,Digital Dreams, Hoodies ,Apparel,New Jersey,$219.00,$115.00,$104.00,$61.00,$43.00,47.49%,19.63%
+03-Mar-2023,Digital Dreams, Mouse Pads ,Accessories,Colorado,$241.00,$77.00,$164.00,$66.00,$98.00,68.05%,40.66%
+04-Mar-2023,Digital Dreams, Mouse Pads ,Accessories,Texas,$263.00,$50.00,$213.00,$53.00,$160.00,80.99%,60.84%
+05-Mar-2023,Digital Dreams, Business Cards ,Stationery,Arizona,$296.00,$84.00,$212.00,$75.00,$137.00,71.62%,46.28%
+06-Mar-2023,Digital Dreams, Hoodies ,Apparel,Arizona,$157.00,$55.00,$102.00,$71.00,$31.00,64.97%,19.75%
+07-Mar-2023,Circuit City Central, Letterheads ,Stationery,Arizona,$157.00,$74.00,$83.00,$70.00,$13.00,52.87%,8.28%
+08-Mar-2023,ElectroHub, Hoodies ,Apparel,Colorado,$153.00,$62.00,$91.00,$71.00,$20.00,59.48%,13.07%
+09-Mar-2023,ElectroHub, Letterheads ,Stationery,Arizona,$296.00,$96.00,$200.00,$70.00,$130.00,67.57%,43.92%
+10-Mar-2023,TechGiant Outlet, Mouse Pads ,Accessories,New Jersey,$201.00,$77.00,$124.00,$56.00,$68.00,61.69%,33.83%
+11-Mar-2023,TechGiant Outlet, Letterheads ,Stationery,Florida,$239.00,$83.00,$156.00,$57.00,$99.00,65.27%,41.42%
+12-Mar-2023,ElectroHub, T Shirts ,Apparel,Colorado,$283.00,$100.00,$183.00,$56.00,$127.00,64.66%,44.88%
+13-Mar-2023,ElectroHub, Phone Cases ,Accessories,Colorado,$169.00,$67.00,$102.00,$66.00,$36.00,60.36%,21.30%
+14-Mar-2023,ElectroHub, Letterheads ,Stationery,Arizona,$187.00,$99.00,$88.00,$54.00,$34.00,47.06%,18.18%
+15-Mar-2023,TechGiant Outlet, Hoodies ,Apparel,Arizona,$277.00,$81.00,$196.00,$61.00,$135.00,70.76%,48.74%
+16-Mar-2023,Digital Dreams, Hoodies ,Apparel,Florida,$244.00,$56.00,$188.00,$76.00,$112.00,77.05%,45.90%
+17-Mar-2023,ElectroHub, Mouse Pads ,Accessories,Arizona,$205.00,$106.00,$99.00,$78.00,$21.00,48.29%,10.24%
+18-Mar-2023,ElectroHub, Mouse Pads ,Accessories,Colorado,$262.00,$82.00,$180.00,$70.00,$110.00,68.70%,41.98%
+19-Mar-2023,Circuit City Central, T Shirts ,Apparel,Florida,$283.00,$54.00,$229.00,$70.00,$159.00,80.92%,56.18%
+20-Mar-2023,ElectroHub, T Shirts ,Apparel,Texas,$222.00,$101.00,$121.00,$65.00,$56.00,54.50%,25.23%
+21-Mar-2023,Gadget Galaxy, Hoodies ,Apparel,New Jersey,$236.00,$107.00,$129.00,$68.00,$61.00,54.66%,25.85%
+22-Mar-2023,Digital Dreams, Business Cards ,Stationery,Florida,$186.00,$85.00,$101.00,$64.00,$37.00,54.30%,19.89%
+23-Mar-2023,Circuit City Central, Mouse Pads ,Accessories,Arizona,$244.00,$99.00,$145.00,$53.00,$92.00,59.43%,37.70%
+24-Mar-2023,Digital Dreams, Phone Cases ,Accessories,Florida,$215.00,$56.00,$159.00,$77.00,$82.00,73.95%,38.14%
+25-Mar-2023,ElectroHub, T Shirts ,Apparel,Arizona,$275.00,$85.00,$190.00,$52.00,$138.00,69.09%,50.18%
+26-Mar-2023,TechGiant Outlet, Business Cards ,Stationery,Texas,$194.00,$80.00,$114.00,$69.00,$45.00,58.76%,23.20%
+27-Mar-2023,ElectroHub, Business Cards ,Stationery,Texas,$265.00,$104.00,$161.00,$61.00,$100.00,60.75%,37.74%
+28-Mar-2023,TechGiant Outlet, Business Cards ,Stationery,Texas,$213.00,$71.00,$142.00,$59.00,$83.00,66.67%,38.97%
+29-Mar-2023,Gadget Galaxy, Hoodies ,Apparel,Texas,$158.00,$68.00,$90.00,$50.00,$40.00,56.96%,25.32%
+30-Mar-2023,Circuit City Central, Letterheads ,Stationery,Texas,$274.00,$108.00,$166.00,$67.00,$99.00,60.58%,36.13%
+31-Mar-2023,Gadget Galaxy, Phone Cases ,Accessories,New Jersey,$161.00,$106.00,$55.00,$51.00,$4.00,34.16%,2.48%
+01-Apr-2023,Circuit City Central, Hoodies ,Apparel,Colorado,$294.00,$91.00,$203.00,$62.00,$141.00,69.05%,47.96%
+02-Apr-2023,, Mouse Pads ,Accessories,Texas,$224.00,$108.00,$116.00,$50.00,$66.00,51.79%,29.46%
+03-Apr-2023,Digital Dreams, Letterheads ,Stationery,Arizona,$214.00,$88.00,$126.00,$80.00,$46.00,58.88%,21.50%
+04-Apr-2023,Gadget Galaxy, Phone Cases ,Accessories,Colorado,$277.00,$97.00,$180.00,$71.00,$109.00,64.98%,39.35%
+05-Apr-2023,TechGiant Outlet, T Shirts ,Apparel,Colorado,$231.00,$64.00,$167.00,$56.00,$111.00,72.29%,48.05%
+06-Apr-2023,Circuit City Central, Phone Cases ,Accessories,Colorado,$290.00,$70.00,$220.00,$52.00,$168.00,75.86%,57.93%
+07-Apr-2023,Gadget Galaxy, Hoodies ,Apparel,Florida,$183.00,$115.00,$68.00,$58.00,$10.00,37.16%,5.46%
+08-Apr-2023,ElectroHub, Letterheads ,Stationery,Texas,$171.00,$67.00,$104.00,$57.00,$47.00,60.82%,27.49%
+09-Apr-2023,Digital Dreams, Phone Cases ,Accessories,Colorado,$265.00,$113.00,$152.00,$51.00,$101.00,57.36%,38.11%
+10-Apr-2023,Gadget Galaxy, Mouse Pads ,Accessories,Arizona,$264.00,$61.00,$203.00,$69.00,$134.00,76.89%,50.76%
+11-Apr-2023,Circuit City Central, Letterheads ,Stationery,Florida,$278.00,$72.00,$206.00,$64.00,$142.00,74.10%,51.08%
+12-Apr-2023,Digital Dreams, Mouse Pads ,Accessories,Arizona,$203.00,$52.00,$151.00,$60.00,$91.00,74.38%,44.83%
+13-Apr-2023,TechGiant Outlet, Mouse Pads ,Accessories,Arizona,$258.00,$101.00,$157.00,$51.00,$106.00,60.85%,41.09%
+14-Apr-2023,ElectroHub, Letterheads ,Stationery,Arizona,$159.00,$55.00,$104.00,$51.00,$53.00,65.41%,33.33%
+15-Apr-2023,Gadget Galaxy, Business Cards ,Stationery,New Jersey,$165.00,$94.00,$71.00,$77.00,-$6.00,43.03%,-3.64%
+16-Apr-2023,ElectroHub, Mouse Pads ,Accessories,New Jersey,$178.00,$80.00,$98.00,$80.00,$18.00,55.06%,10.11%
+17-Apr-2023,ElectroHub, Mouse Pads ,Accessories,Arizona,$162.00,$105.00,$57.00,$73.00,-$16.00,35.19%,-9.88%
+18-Apr-2023,Digital Dreams, T Shirts ,Apparel,New Jersey,$298.00,$113.00,$185.00,$63.00,$122.00,62.08%,40.94%
+19-Apr-2023,Digital Dreams, Phone Cases ,Accessories,Florida,$180.00,$75.00,$105.00,$61.00,$44.00,58.33%,24.44%
+20-Apr-2023,Circuit City Central, Phone Cases ,Accessories,Colorado,$298.00,$99.00,$199.00,$78.00,$121.00,66.78%,40.60%
+21-Apr-2023,Gadget Galaxy, Business Cards ,Stationery,New Jersey,$209.00,$72.00,$137.00,$76.00,$61.00,65.55%,29.19%
+22-Apr-2023,Digital Dreams, Letterheads ,Stationery,Florida,$240.00,$108.00,$132.00,$76.00,$56.00,55.00%,23.33%
+23-Apr-2023,TechGiant Outlet, Phone Cases ,Accessories,Texas,$299.00,$81.00,$218.00,$77.00,$141.00,72.91%,47.16%
+24-Apr-2023,Circuit City Central, T Shirts ,Apparel,Florida,$232.00,$69.00,$163.00,$80.00,$83.00,70.26%,35.78%
+25-Apr-2023,TechGiant Outlet, Phone Cases ,Accessories,Florida,$153.00,$109.00,$44.00,$55.00,-$11.00,28.76%,-7.19%
+26-Apr-2023,Gadget Galaxy, T Shirts ,Apparel,Arizona,$198.00,$105.00,$93.00,$71.00,$22.00,46.97%,11.11%
+27-Apr-2023,Gadget Galaxy, Mouse Pads ,Accessories,New Jersey,$165.00,$107.00,$58.00,$54.00,$4.00,35.15%,2.42%
+28-Apr-2023,Digital Dreams, Business Cards ,Stationery,Florida,$201.00,$102.00,$99.00,$57.00,$42.00,49.25%,20.90%
+29-Apr-2023,Circuit City Central, Phone Cases ,Accessories,Florida,$264.00,$73.00,$191.00,$76.00,$115.00,72.35%,43.56%
+30-Apr-2023,Digital Dreams, Hoodies ,Apparel,Texas,$238.00,$71.00,$167.00,$69.00,$98.00,70.17%,41.18%
+01-May-2023,Circuit City Central, T Shirts ,Apparel,Texas,$262.00,$65.00,$197.00,$64.00,$133.00,75.19%,50.76%
+02-May-2023,Gadget Galaxy, T Shirts ,Apparel,Arizona,$167.00,$90.00,$77.00,$63.00,$14.00,46.11%,8.38%
+03-May-2023,Gadget Galaxy, T Shirts ,Apparel,Florida,$212.00,$85.00,$127.00,$70.00,$57.00,59.91%,26.89%
+04-May-2023,Circuit City Central, Letterheads ,Stationery,Colorado,$203.00,$114.00,$89.00,$77.00,$12.00,43.84%,5.91%
+05-May-2023,Gadget Galaxy, Business Cards ,Stationery,Texas,$271.00,$91.00,$180.00,$72.00,$108.00,66.42%,39.85%
+06-May-2023,Gadget Galaxy, Mouse Pads ,Accessories,Arizona,$180.00,$50.00,$130.00,$68.00,$62.00,72.22%,34.44%
+07-May-2023,James Lewis, Phone Cases ,Accessories,Colorado,$194.00,$86.00,$108.00,$63.00,$45.00,55.67%,23.20%
+08-May-2023,Emily Davis, Letterheads ,Stationery,New Jersey,$215.00,$104.00,$111.00,$57.00,$54.00,51.63%,25.12%
+09-May-2023,Michael Brown, T Shirts ,Apparel,New Jersey,$299.00,$119.00,$180.00,$65.00,$115.00,60.20%,38.46%
+10-May-2023,Lily Rogers, Business Cards ,Stationery,Texas,$154.00,$60.00,$94.00,$72.00,$22.00,61.04%,14.29%
+11-May-2023,Charlotte Adams, T Shirts ,Apparel,Colorado,$223.00,$63.00,$160.00,$62.00,$98.00,71.75%,43.95%
+12-May-2023,John Smith, Phone Cases ,Accessories,Colorado,$158.00,$56.00,$102.00,$53.00,$49.00,64.56%,31.01%
+13-May-2023,Emma Parker, T Shirts ,Apparel,Colorado,$292.00,$83.00,$209.00,$68.00,$141.00,71.58%,48.29%
+14-May-2023,Mia Thompson, T Shirts ,Apparel,Colorado,$195.00,$75.00,$120.00,$66.00,$54.00,61.54%,27.69%
+15-May-2023,Benjamin Carter, Hoodies ,Apparel,Arizona,$214.00,$56.00,$158.00,$51.00,$107.00,73.83%,50.00%
+16-May-2023,Ava Scott, T Shirts ,Apparel,Florida,$254.00,$120.00,$134.00,$52.00,$82.00,52.76%,32.28%
+17-May-2023,Emma Parker, Letterheads ,Stationery,Arizona,$251.00,$89.00,$162.00,$53.00,$109.00,64.54%,43.43%
+18-May-2023,Jane Doe, Phone Cases ,Accessories,New Jersey,$210.00,$88.00,$122.00,$79.00,$43.00,58.10%,20.48%
+19-May-2023,Liam Garcia, Hoodies ,Apparel,Texas,$267.00,$120.00,$147.00,$68.00,$79.00,55.06%,29.59%
+20-May-2023,Charlotte Adams, Mouse Pads ,Accessories,Texas,$181.00,$78.00,$103.00,$60.00,$43.00,56.91%,23.76%
+21-May-2023,Samuel Phillips, Phone Cases ,Accessories,New Jersey,$182.00,$77.00,$105.00,$78.00,$27.00,57.69%,14.84%
+22-May-2023,James Lewis, Business Cards ,Stationery,Texas,$187.00,$111.00,$76.00,$54.00,$22.00,40.64%,11.76%
+23-May-2023,Emily Davis, T Shirts ,Apparel,Texas,$210.00,$108.00,$102.00,$54.00,$48.00,48.57%,22.86%
+24-May-2023,John Smith, Business Cards ,Stationery,Texas,$253.00,$75.00,$178.00,$66.00,$112.00,70.36%,44.27%
+25-May-2023,William Allen, Hoodies ,Apparel,Florida,$160.00,$58.00,$102.00,$66.00,$36.00,63.75%,22.50%
+26-May-2023,Liam Garcia, Letterheads ,Stationery,New Jersey,$267.00,$103.00,$164.00,$61.00,$103.00,61.42%,38.58%
+27-May-2023,James Lewis, Mouse Pads ,Accessories,Texas,$158.00,$108.00,$50.00,$74.00,-$24.00,31.65%,-15.19%
+28-May-2023,Liam Garcia, Hoodies ,Apparel,Arizona,$222.00,$54.00,$168.00,$68.00,$100.00,75.68%,45.05%
+29-May-2023,Noah Martinez, Mouse Pads ,Accessories,Colorado,$287.00,$75.00,$212.00,$68.00,$144.00,73.87%,50.17%
+30-May-2023,Jacob Stewart, Phone Cases ,Accessories,Arizona,$273.00,$69.00,$204.00,$63.00,$141.00,74.73%,51.65%
+31-May-2023,James Lewis, Letterheads ,Stationery,Texas,$253.00,$65.00,$188.00,$61.00,$127.00,74.31%,50.20%
+01-Jun-2023,Mia Thompson, Mouse Pads ,Accessories,Florida,$280.00,$69.00,$211.00,$50.00,$161.00,75.36%,57.50%
+02-Jun-2023,Sarah Johnson, Business Cards ,Stationery,Arizona,$296.00,$101.00,$195.00,$53.00,$142.00,65.88%,47.97%
+03-Jun-2023,Ethan Harris, Business Cards ,Stationery,New Jersey,$266.00,$71.00,$195.00,$72.00,$123.00,73.31%,46.24%
+04-Jun-2023,Emily Davis, Business Cards ,Stationery,Texas,$167.00,$119.00,$48.00,$74.00,-$26.00,28.74%,-15.57%
+05-Jun-2023,Amelia Baker, Letterheads ,Stationery,Colorado,$248.00,$104.00,$144.00,$71.00,$73.00,58.06%,29.44%
+06-Jun-2023,Samuel Phillips, Letterheads ,Stationery,Colorado,$258.00,$72.00,$186.00,$79.00,$107.00,72.09%,41.47%
+07-Jun-2023,Emily Davis, Business Cards ,Stationery,Colorado,$269.00,$76.00,$193.00,$51.00,$142.00,71.75%,52.79%
+08-Jun-2023,Isabella Hill, Phone Cases ,Accessories,New Jersey,$235.00,$107.00,$128.00,$62.00,$66.00,54.47%,28.09%
+09-Jun-2023,Samuel Phillips, Business Cards ,Stationery,Texas,$160.00,$64.00,$96.00,$75.00,$21.00,60.00%,13.13%
+10-Jun-2023,Lucas Mitchell, Hoodies ,Apparel,New Jersey,$283.00,$80.00,$203.00,$52.00,$151.00,71.73%,53.36%
+11-Jun-2023,Liam Garcia, Hoodies ,Apparel,New Jersey,$298.00,$100.00,$198.00,$55.00,$143.00,66.44%,47.99%
+12-Jun-2023,Ava Scott, Letterheads ,Stationery,Texas,$273.00,$84.00,$189.00,$79.00,$110.00,69.23%,40.29%
+13-Jun-2023,Olivia Taylor, Hoodies ,Apparel,Texas,$251.00,$75.00,$176.00,$50.00,$126.00,70.12%,50.20%
+14-Jun-2023,Lily Rogers, Business Cards ,Stationery,Arizona,$167.00,$87.00,$80.00,$79.00,$1.00,47.90%,0.60%
+15-Jun-2023,Ella Cooper, Letterheads ,Stationery,Florida,$283.00,$66.00,$217.00,$58.00,$159.00,76.68%,56.18%
+16-Jun-2023,Chloe Turner, Business Cards ,Stationery,New Jersey,$243.00,$60.00,$183.00,$64.00,$119.00,75.31%,48.97%
+17-Jun-2023,Emily Davis, Mouse Pads ,Accessories,Colorado,$294.00,$72.00,$222.00,$69.00,$153.00,75.51%,52.04%
+18-Jun-2023,Ella Cooper, Mouse Pads ,Accessories,Texas,$216.00,$106.00,$110.00,$64.00,$46.00,50.93%,21.30%
+19-Jun-2023,Alexander Wright, Business Cards ,Stationery,Texas,$185.00,$54.00,$131.00,$72.00,$59.00,70.81%,31.89%
+20-Jun-2023,Benjamin Carter, Phone Cases ,Accessories,New Jersey,$242.00,$99.00,$143.00,$63.00,$80.00,59.09%,33.06%
+21-Jun-2023,Jane Doe, Letterheads ,Stationery,Arizona,$248.00,$77.00,$171.00,$64.00,$107.00,68.95%,43.15%
+22-Jun-2023,Ella Cooper, Hoodies ,Apparel,Texas,$201.00,$69.00,$132.00,$51.00,$81.00,65.67%,40.30%
+23-Jun-2023,Liam Garcia, Mouse Pads ,Accessories,Colorado,$255.00,$80.00,$175.00,$69.00,$106.00,68.63%,41.57%
+24-Jun-2023,Ethan Harris, Hoodies ,Apparel,Arizona,$197.00,$52.00,$145.00,$59.00,$86.00,73.60%,43.65%
+25-Jun-2023,David Wilson, T Shirts ,Apparel,Colorado,$193.00,$71.00,$122.00,$71.00,$51.00,63.21%,26.42%
+26-Jun-2023,David Wilson, T Shirts ,Apparel,Arizona,$199.00,$87.00,$112.00,$52.00,$60.00,56.28%,30.15%
+27-Jun-2023,Liam Garcia, Letterheads ,Stationery,Colorado,$247.00,$59.00,$188.00,$77.00,$111.00,76.11%,44.94%
+28-Jun-2023,Liam Garcia, Mouse Pads ,Accessories,New Jersey,$221.00,$58.00,$163.00,$72.00,$91.00,73.76%,41.18%
+29-Jun-2023,Lucas Mitchell, Mouse Pads ,Accessories,New Jersey,$286.00,$109.00,$177.00,$62.00,$115.00,61.89%,40.21%
+30-Jun-2023,Jacob Stewart, Letterheads ,Stationery,New Jersey,$269.00,$62.00,$207.00,$64.00,$143.00,76.95%,53.16%
+01-Jul-2023,Olivia Taylor, Phone Cases ,Accessories,New Jersey,$289.00,$93.00,$196.00,$52.00,$144.00,67.82%,49.83%
+02-Jul-2023,William Allen, Mouse Pads ,Accessories,New Jersey,$340.00,$58.00,$282.00,$78.00,$204.00,82.94%,60.00%
+03-Jul-2023,Michael Brown, Letterheads ,Stationery,Texas,$337.00,$53.00,$284.00,$56.00,$228.00,84.27%,67.66%
+04-Jul-2023,Liam Garcia, Letterheads ,Stationery,Colorado,$275.00,$104.00,$171.00,$72.00,$99.00,62.18%,36.00%
+05-Jul-2023,Jane Doe, Phone Cases ,Accessories,Florida,$227.00,$92.00,$135.00,$51.00,$84.00,59.47%,37.00%
+06-Jul-2023,Sophia Clark, Letterheads ,Stationery,Arizona,$349.00,$67.00,$282.00,$51.00,$231.00,80.80%,66.19%
+07-Jul-2023,Jacob Stewart, Phone Cases ,Accessories,Colorado,$293.00,$67.00,$226.00,$64.00,$162.00,77.13%,55.29%
+08-Jul-2023,Sarah Johnson, Business Cards ,Stationery,Colorado,$226.00,$66.00,$160.00,$78.00,$82.00,70.80%,36.28%
+09-Jul-2023,Alexander Wright, Hoodies ,Apparel,Florida,$332.00,$57.00,$275.00,$62.00,$213.00,82.83%,64.16%
+10-Jul-2023,Mia Thompson, Letterheads ,Stationery,Arizona,$272.00,$93.00,$179.00,$71.00,$108.00,65.81%,39.71%
+11-Jul-2023,Emily Davis, Phone Cases ,Accessories,Arizona,$279.00,$58.00,$221.00,$53.00,$168.00,79.21%,60.22%
+12-Jul-2023,Liam Garcia, Hoodies ,Apparel,Colorado,$267.00,$77.00,$190.00,$76.00,$114.00,71.16%,42.70%
+13-Jul-2023,Ethan Harris, Phone Cases ,Accessories,Colorado,$291.00,$51.00,$240.00,$58.00,$182.00,82.47%,62.54%
+14-Jul-2023,Isabella Hill, Letterheads ,Stationery,Florida,$204.00,$117.00,$87.00,$73.00,$14.00,42.65%,6.86%
+15-Jul-2023,Grace Perez, Hoodies ,Apparel,Arizona,$331.00,$107.00,$224.00,$70.00,$154.00,67.67%,46.53%
+16-Jul-2023,Alexander Wright, T Shirts ,Apparel,Texas,$349.00,$88.00,$261.00,$74.00,$187.00,74.79%,53.58%
+17-Jul-2023,Jacob Stewart, Mouse Pads ,Accessories,Colorado,$323.00,$77.00,$246.00,$76.00,$170.00,76.16%,52.63%
+18-Jul-2023,Jacob Stewart, Phone Cases ,Accessories,Colorado,$257.00,$66.00,$191.00,$72.00,$119.00,74.32%,46.30%
+19-Jul-2023,Jane Doe, Mouse Pads ,Accessories,Colorado,$297.00,$65.00,$232.00,$61.00,$171.00,78.11%,57.58%
+20-Jul-2023,Samuel Phillips, T Shirts ,Apparel,Colorado,$313.00,$50.00,$263.00,$53.00,$210.00,84.03%,67.09%
+21-Jul-2023,Henry Roberts, Business Cards ,Stationery,Arizona,$203.00,$92.00,$111.00,$72.00,$39.00,54.68%,19.21%
+22-Jul-2023,Amelia Baker, Hoodies ,Apparel,Florida,$239.00,$113.00,$126.00,$60.00,$66.00,52.72%,27.62%
+23-Jul-2023,Alexander Wright, Mouse Pads ,Accessories,New Jersey,$337.00,$79.00,$258.00,$69.00,$189.00,76.56%,56.08%
+24-Jul-2023,Lily Rogers, Hoodies ,Apparel,Arizona,$350.00,$59.00,$291.00,$77.00,$214.00,83.14%,61.14%
+25-Jul-2023,Benjamin Carter, Business Cards ,Stationery,Colorado,$246.00,$98.00,$148.00,$79.00,$69.00,60.16%,28.05%
+26-Jul-2023,Amelia Baker, Hoodies ,Apparel,Arizona,$205.00,$64.00,$141.00,$52.00,$89.00,68.78%,43.41%
+27-Jul-2023,Lucas Mitchell, Letterheads ,Stationery,Arizona,$251.00,$63.00,$188.00,$66.00,$122.00,74.90%,48.61%
+28-Jul-2023,Emma Parker, T Shirts ,Apparel,Colorado,$245.00,$101.00,$144.00,$79.00,$65.00,58.78%,26.53%
+29-Jul-2023,Sarah Johnson, Business Cards ,Stationery,Arizona,$261.00,$63.00,$198.00,$57.00,$141.00,75.86%,54.02%
+30-Jul-2023,Ethan Harris, Letterheads ,Stationery,Texas,$247.00,$96.00,$151.00,$56.00,$95.00,61.13%,38.46%
+31-Jul-2023,Samuel Phillips, Phone Cases ,Accessories,Arizona,$207.00,$80.00,$127.00,$58.00,$69.00,61.35%,33.33%
+01-Aug-2023,Lucas Mitchell, Phone Cases ,Accessories,New Jersey,$323.00,$82.00,$241.00,$79.00,$162.00,74.61%,50.15%
+02-Aug-2023,Jane Doe, Business Cards ,Stationery,Colorado,$233.00,$115.00,$118.00,$69.00,$49.00,50.64%,21.03%
+03-Aug-2023,Michael Brown, Hoodies ,Apparel,New Jersey,$291.00,$59.00,$232.00,$67.00,$165.00,79.73%,56.70%
+04-Aug-2023,Lily Rogers, Hoodies ,Apparel,Florida,$296.00,$62.00,$234.00,$58.00,$176.00,79.05%,59.46%
+05-Aug-2023,Olivia Taylor, Letterheads ,Stationery,New Jersey,$318.00,$115.00,$203.00,$57.00,$146.00,63.84%,45.91%
+06-Aug-2023,Alexander Wright, T Shirts ,Apparel,Colorado,$326.00,$98.00,$228.00,$64.00,$164.00,69.94%,50.31%
+07-Aug-2023,Mia Thompson, Letterheads ,Stationery,Texas,$287.00,$106.00,$181.00,$80.00,$101.00,63.07%,35.19%
+08-Aug-2023,John Smith, Hoodies ,Apparel,Arizona,$290.00,$118.00,$172.00,$67.00,$105.00,59.31%,36.21%
+09-Aug-2023,Ethan Harris, T Shirts ,Apparel,New Jersey,$322.00,$88.00,$234.00,$58.00,$176.00,72.67%,54.66%
+10-Aug-2023,Amelia Baker, Mouse Pads ,Accessories,New Jersey,$311.00,$114.00,$197.00,$69.00,$128.00,63.34%,41.16%
+11-Aug-2023,Grace Perez, Letterheads ,Stationery,Colorado,$285.00,$54.00,$231.00,$63.00,$168.00,81.05%,58.95%
+12-Aug-2023,Liam Garcia, Business Cards ,Stationery,Arizona,$294.00,$110.00,$184.00,$51.00,$133.00,62.59%,45.24%
+13-Aug-2023,Charlotte Adams, Hoodies ,Apparel,Colorado,$256.00,$81.00,$175.00,$79.00,$96.00,68.36%,37.50%
+14-Aug-2023,Noah Martinez, Phone Cases ,Accessories,Florida,$251.00,$52.00,$199.00,$63.00,$136.00,79.28%,54.18%
+15-Aug-2023,Michael Brown, Hoodies ,Apparel,Colorado,$312.00,$58.00,$254.00,$61.00,$193.00,81.41%,61.86%
+16-Aug-2023,Lily Rogers, Business Cards ,Stationery,Arizona,$283.00,$103.00,$180.00,$63.00,$117.00,63.60%,41.34%
+17-Aug-2023,David Wilson, Business Cards ,Stationery,New Jersey,$330.00,$99.00,$231.00,$73.00,$158.00,70.00%,47.88%
+18-Aug-2023,Ethan Harris, Business Cards ,Stationery,Texas,$232.00,$73.00,$159.00,$72.00,$87.00,68.53%,37.50%
+19-Aug-2023,Ella Cooper, Phone Cases ,Accessories,Texas,$335.00,$119.00,$216.00,$70.00,$146.00,64.48%,43.58%
+20-Aug-2023,Lily Rogers, Business Cards ,Stationery,Florida,$316.00,$56.00,$260.00,$75.00,$185.00,82.28%,58.54%
+21-Aug-2023,Chloe Turner, T Shirts ,Apparel,Colorado,$316.00,$54.00,$262.00,$80.00,$182.00,82.91%,57.59%
+22-Aug-2023,John Smith, Hoodies ,Apparel,Colorado,$277.00,$82.00,$195.00,$74.00,$121.00,70.40%,43.68%
+23-Aug-2023,Sarah Johnson, Mouse Pads ,Accessories,New Jersey,$297.00,$87.00,$210.00,$50.00,$160.00,70.71%,53.87%
+24-Aug-2023,Liam Garcia, T Shirts ,Apparel,Texas,$215.00,$112.00,$103.00,$67.00,$36.00,47.91%,16.74%
+25-Aug-2023,Lily Rogers, Letterheads ,Stationery,Arizona,$313.00,$82.00,$231.00,$75.00,$156.00,73.80%,49.84%
+26-Aug-2023,Michael Brown, T Shirts ,Apparel,Arizona,$267.00,$53.00,$214.00,$80.00,$134.00,80.15%,50.19%
+27-Aug-2023,Liam Garcia, T Shirts ,Apparel,Colorado,$345.00,$93.00,$252.00,$50.00,$202.00,73.04%,58.55%
+28-Aug-2023,Sarah Johnson, Hoodies ,Apparel,New Jersey,$336.00,$79.00,$257.00,$76.00,$181.00,76.49%,53.87%
+29-Aug-2023,James Lewis, Business Cards ,Stationery,New Jersey,$341.00,$56.00,$285.00,$66.00,$219.00,83.58%,64.22%
+30-Aug-2023,Jacob Stewart, Hoodies ,Apparel,Florida,$254.00,$88.00,$166.00,$50.00,$116.00,65.35%,45.67%
+31-Aug-2023,Ella Cooper, Hoodies ,Apparel,Texas,$350.00,$84.00,$266.00,$56.00,$210.00,76.00%,60.00%
+01-Sep-2023,Liam Garcia, Mouse Pads ,Accessories,Texas,$218.00,$55.00,$163.00,$58.00,$105.00,74.77%,48.17%
+02-Sep-2023,John Smith, Letterheads ,Stationery,Arizona,$230.00,$114.00,$116.00,$80.00,$36.00,50.43%,15.65%
+03-Sep-2023,James Lewis, T Shirts ,Apparel,Texas,$236.00,$106.00,$130.00,$80.00,$50.00,55.08%,21.19%
+04-Sep-2023,Noah Martinez, Business Cards ,Stationery,Texas,$263.00,$67.00,$196.00,$53.00,$143.00,74.52%,54.37%
+05-Sep-2023,Charlotte Adams, Hoodies ,Apparel,Colorado,$324.00,$111.00,$213.00,$62.00,$151.00,65.74%,46.60%
+06-Sep-2023,Chloe Turner, Business Cards ,Stationery,Colorado,$236.00,$80.00,$156.00,$57.00,$99.00,66.10%,41.95%
+07-Sep-2023,Lily Rogers, Letterheads ,Stationery,New Jersey,$349.00,$69.00,$280.00,$57.00,$223.00,80.23%,63.90%
+08-Sep-2023,Noah Martinez, Phone Cases ,Accessories,Arizona,$221.00,$53.00,$168.00,$79.00,$89.00,76.02%,40.27%
+09-Sep-2023,Grace Perez, Phone Cases ,Accessories,Colorado,$224.00,$69.00,$155.00,$55.00,$100.00,69.20%,44.64%
+10-Sep-2023,Emma Parker, Phone Cases ,Accessories,New Jersey,$322.00,$111.00,$211.00,$79.00,$132.00,65.53%,40.99%
+11-Sep-2023,Michael Brown, Hoodies ,Apparel,Florida,$313.00,$59.00,$254.00,$65.00,$189.00,81.15%,60.38%
+12-Sep-2023,Chloe Turner, Phone Cases ,Accessories,Texas,$314.00,$52.00,$262.00,$74.00,$188.00,83.44%,59.87%
+13-Sep-2023,David Wilson, T Shirts ,Apparel,Colorado,$297.00,$83.00,$214.00,$70.00,$144.00,72.05%,48.48%
+14-Sep-2023,Noah Martinez, Mouse Pads ,Accessories,Colorado,$332.00,$92.00,$240.00,$72.00,$168.00,72.29%,50.60%
+15-Sep-2023,Liam Garcia, Mouse Pads ,Accessories,New Jersey,$227.00,$72.00,$155.00,$60.00,$95.00,68.28%,41.85%
+16-Sep-2023,Ella Cooper, T Shirts ,Apparel,New Jersey,$328.00,$99.00,$229.00,$50.00,$179.00,69.82%,54.57%
+17-Sep-2023,Lily Rogers, Phone Cases ,Accessories,Colorado,$306.00,$103.00,$203.00,$72.00,$131.00,66.34%,42.81%
+18-Sep-2023,Henry Roberts, Letterheads ,Stationery,Arizona,$272.00,$78.00,$194.00,$62.00,$132.00,71.32%,48.53%
+19-Sep-2023,Isabella Hill, Business Cards ,Stationery,New Jersey,$203.00,$79.00,$124.00,$55.00,$69.00,61.08%,33.99%
+20-Sep-2023,James Lewis, Mouse Pads ,Accessories,Colorado,$243.00,$103.00,$140.00,$51.00,$89.00,57.61%,36.63%
+21-Sep-2023,Ava Scott, T Shirts ,Apparel,Texas,$228.00,$73.00,$155.00,$51.00,$104.00,67.98%,45.61%
+22-Sep-2023,John Smith, Mouse Pads ,Accessories,Arizona,$296.00,$70.00,$226.00,$62.00,$164.00,76.35%,55.41%
+23-Sep-2023,Grace Perez, Mouse Pads ,Accessories,Arizona,$335.00,$52.00,$283.00,$77.00,$206.00,84.48%,61.49%
+24-Sep-2023,Amelia Baker, T Shirts ,Apparel,New Jersey,$309.00,$94.00,$215.00,$72.00,$143.00,69.58%,46.28%
+25-Sep-2023,Liam Garcia, Mouse Pads ,Accessories,Arizona,$292.00,$97.00,$195.00,$56.00,$139.00,66.78%,47.60%
+26-Sep-2023,Ava Scott, Hoodies ,Apparel,Colorado,$345.00,$86.00,$259.00,$59.00,$200.00,75.07%,57.97%
+27-Sep-2023,Lily Rogers, T Shirts ,Apparel,Texas,$288.00,$119.00,$169.00,$64.00,$105.00,58.68%,36.46%
+28-Sep-2023,Jacob Stewart, Letterheads ,Stationery,Colorado,$298.00,$74.00,$224.00,$77.00,$147.00,75.17%,49.33%
+29-Sep-2023,Sarah Johnson, Hoodies ,Apparel,Colorado,$210.00,$102.00,$108.00,$56.00,$52.00,51.43%,24.76%
+30-Sep-2023,Ava Scott, T Shirts ,Apparel,Texas,$288.00,$106.00,$182.00,$60.00,$122.00,63.19%,42.36%
+01-Oct-2023,Samuel Phillips, Letterheads ,Stationery,Arizona,$231.00,$116.00,$115.00,$71.00,$44.00,49.78%,19.05%
+02-Oct-2023,Liam Garcia, Mouse Pads ,Accessories,New Jersey,$339.00,$68.00,$271.00,$80.00,$191.00,79.94%,56.34%
+03-Oct-2023,Amelia Baker, Phone Cases ,Accessories,New Jersey,$211.00,$77.00,$134.00,$79.00,$55.00,63.51%,26.07%
+04-Oct-2023,Olivia Taylor, Business Cards ,Stationery,Florida,$306.00,$81.00,$225.00,$65.00,$160.00,73.53%,52.29%
+05-Oct-2023,Michael Brown, Phone Cases ,Accessories,Arizona,$223.00,$119.00,$104.00,$65.00,$39.00,46.64%,17.49%
+06-Oct-2023,Henry Roberts, T Shirts ,Apparel,Texas,$225.00,$79.00,$146.00,$55.00,$91.00,64.89%,40.44%
+07-Oct-2023,Sophia Clark, T Shirts ,Apparel,New Jersey,$251.00,$74.00,$177.00,$51.00,$126.00,70.52%,50.20%
+08-Oct-2023,Grace Perez, Mouse Pads ,Accessories,Colorado,$213.00,$55.00,$158.00,$55.00,$103.00,74.18%,48.36%
+09-Oct-2023,Michael Brown, Mouse Pads ,Accessories,New Jersey,$251.00,$99.00,$152.00,$53.00,$99.00,60.56%,39.44%
+10-Oct-2023,Jacob Stewart, Business Cards ,Stationery,Florida,$211.00,$52.00,$159.00,$62.00,$97.00,75.36%,45.97%
+11-Oct-2023,Emily Davis, Mouse Pads ,Accessories,Texas,$276.00,$88.00,$188.00,$60.00,$128.00,68.12%,46.38%
+12-Oct-2023,Alexander Wright, Business Cards ,Stationery,Texas,$220.00,$71.00,$149.00,$55.00,$94.00,67.73%,42.73%
+13-Oct-2023,Alexander Wright, Phone Cases ,Accessories,New Jersey,$311.00,$77.00,$234.00,$61.00,$173.00,75.24%,55.63%
+14-Oct-2023,Olivia Taylor, Hoodies ,Apparel,Florida,$305.00,$91.00,$214.00,$78.00,$136.00,70.16%,44.59%
+15-Oct-2023,Ethan Harris, T Shirts ,Apparel,Colorado,$323.00,$114.00,$209.00,$62.00,$147.00,64.71%,45.51%
+16-Oct-2023,Samuel Phillips, Hoodies ,Apparel,Colorado,$240.00,$77.00,$163.00,$67.00,$96.00,67.92%,40.00%
+17-Oct-2023,Sarah Johnson, Letterheads ,Stationery,New Jersey,$306.00,$51.00,$255.00,$71.00,$184.00,83.33%,60.13%
+18-Oct-2023,Ethan Harris, Letterheads ,Stationery,Florida,$305.00,$97.00,$208.00,$74.00,$134.00,68.20%,43.93%
+19-Oct-2023,John Smith, T Shirts ,Apparel,Colorado,$215.00,$94.00,$121.00,$52.00,$69.00,56.28%,32.09%
+20-Oct-2023,Ava Scott, Phone Cases ,Accessories,New Jersey,$204.00,$86.00,$118.00,$54.00,$64.00,57.84%,31.37%
+21-Oct-2023,John Smith, Mouse Pads ,Accessories,Texas,$296.00,$68.00,$228.00,$54.00,$174.00,77.03%,58.78%
+22-Oct-2023,Mia Thompson, Mouse Pads ,Accessories,Colorado,$306.00,$79.00,$227.00,$55.00,$172.00,74.18%,56.21%
+23-Oct-2023,Mia Thompson, T Shirts ,Apparel,Texas,$264.00,$61.00,$203.00,$67.00,$136.00,76.89%,51.52%
+24-Oct-2023,James Lewis, Letterheads ,Stationery,Colorado,$337.00,$115.00,$222.00,$73.00,$149.00,65.88%,44.21%
+25-Oct-2023,Alexander Wright, Mouse Pads ,Accessories,Florida,$218.00,$101.00,$117.00,$59.00,$58.00,53.67%,26.61%
+26-Oct-2023,Ethan Harris, Business Cards ,Stationery,Florida,$273.00,$101.00,$172.00,$60.00,$112.00,63.00%,41.03%
+27-Oct-2023,Michael Brown, Business Cards ,Stationery,New Jersey,$215.00,$117.00,$98.00,$54.00,$44.00,45.58%,20.47%
+28-Oct-2023,David Wilson, T Shirts ,Apparel,New Jersey,$285.00,$120.00,$165.00,$56.00,$109.00,57.89%,38.25%
+29-Oct-2023,David Wilson, Business Cards ,Stationery,Arizona,$241.00,$61.00,$180.00,$66.00,$114.00,74.69%,47.30%
+30-Oct-2023,James Lewis, Hoodies ,Apparel,Florida,$308.00,$76.00,$232.00,$52.00,$180.00,75.32%,58.44%
+31-Oct-2023,Lily Rogers, T Shirts ,Apparel,New Jersey,$226.00,$57.00,$169.00,$75.00,$94.00,74.78%,41.59%
+01-Nov-2023,Benjamin Carter, Business Cards ,Stationery,Florida,$239.00,$92.00,$147.00,$72.00,$75.00,61.51%,31.38%
+02-Nov-2023,Benjamin Carter, Letterheads ,Stationery,Arizona,$307.00,$115.00,$192.00,$54.00,$138.00,62.54%,44.95%
+03-Nov-2023,Sarah Johnson, Mouse Pads ,Accessories,New Jersey,$242.00,$114.00,$128.00,$53.00,$75.00,52.89%,30.99%
+04-Nov-2023,Liam Garcia, Letterheads ,Stationery,Colorado,$350.00,$51.00,$299.00,$50.00,$249.00,85.43%,71.14%
+05-Nov-2023,Samuel Phillips, Business Cards ,Stationery,Colorado,$240.00,$52.00,$188.00,$79.00,$109.00,78.33%,45.42%
+06-Nov-2023,Lily Rogers, T Shirts ,Apparel,Arizona,$313.00,$75.00,$238.00,$75.00,$163.00,76.04%,52.08%
+07-Nov-2023,Noah Martinez, T Shirts ,Apparel,Texas,$268.00,$116.00,$152.00,$65.00,$87.00,56.72%,32.46%
+08-Nov-2023,Chloe Turner, T Shirts ,Apparel,Arizona,$298.00,$83.00,$215.00,$62.00,$153.00,72.15%,51.34%
+09-Nov-2023,Grace Perez, Letterheads ,Stationery,New Jersey,$256.00,$64.00,$192.00,$70.00,$122.00,75.00%,47.66%
+10-Nov-2023,Grace Perez, Phone Cases ,Accessories,Florida,$350.00,$74.00,$276.00,$55.00,$221.00,78.86%,63.14%
+11-Nov-2023,Emily Davis, Mouse Pads ,Accessories,Colorado,$278.00,$80.00,$198.00,$70.00,$128.00,71.22%,46.04%
+12-Nov-2023,Lily Rogers, Mouse Pads ,Accessories,Arizona,$215.00,$87.00,$128.00,$78.00,$50.00,59.53%,23.26%
+13-Nov-2023,Jane Doe, T Shirts ,Apparel,Arizona,$347.00,$90.00,$257.00,$75.00,$182.00,74.06%,52.45%
+14-Nov-2023,Sarah Johnson, Mouse Pads ,Accessories,Texas,$282.00,$71.00,$211.00,$79.00,$132.00,74.82%,46.81%
+15-Nov-2023,Jane Doe, Mouse Pads ,Accessories,New Jersey,$242.00,$97.00,$145.00,$53.00,$92.00,59.92%,38.02%
+16-Nov-2023,Amelia Baker, Letterheads ,Stationery,New Jersey,$224.00,$73.00,$151.00,$55.00,$96.00,67.41%,42.86%
+17-Nov-2023,Chloe Turner, Hoodies ,Apparel,Colorado,$329.00,$70.00,$259.00,$58.00,$201.00,78.72%,61.09%
+18-Nov-2023,Michael Brown, Phone Cases ,Accessories,Colorado,$244.00,$51.00,$193.00,$56.00,$137.00,79.10%,56.15%
+19-Nov-2023,Noah Martinez, Letterheads ,Stationery,Texas,$284.00,$95.00,$189.00,$58.00,$131.00,66.55%,46.13%
+20-Nov-2023,Lucas Mitchell, Letterheads ,Stationery,Florida,$240.00,$106.00,$134.00,$72.00,$62.00,55.83%,25.83%
+21-Nov-2023,Alexander Wright, Letterheads ,Stationery,Florida,$264.00,$119.00,$145.00,$62.00,$83.00,54.92%,31.44%
+22-Nov-2023,Amelia Baker, T Shirts ,Apparel,Texas,$329.00,$76.00,$253.00,$65.00,$188.00,76.90%,57.14%
+23-Nov-2023,Ethan Harris, T Shirts ,Apparel,New Jersey,$303.00,$73.00,$230.00,$79.00,$151.00,75.91%,49.83%
+24-Nov-2023,Noah Martinez, Phone Cases ,Accessories,New Jersey,$321.00,$117.00,$204.00,$57.00,$147.00,63.55%,45.79%
+25-Nov-2023,Alexander Wright, T Shirts ,Apparel,New Jersey,$230.00,$103.00,$127.00,$69.00,$58.00,55.22%,25.22%
+26-Nov-2023,Michael Brown, Letterheads ,Stationery,Arizona,$271.00,$107.00,$164.00,$77.00,$87.00,60.52%,32.10%
+27-Nov-2023,Ella Cooper, Hoodies ,Apparel,Texas,$228.00,$85.00,$143.00,$72.00,$71.00,62.72%,31.14%
+28-Nov-2023,Olivia Taylor, Letterheads ,Stationery,Arizona,$320.00,$72.00,$248.00,$65.00,$183.00,77.50%,57.19%
+29-Nov-2023,Noah Martinez, Letterheads ,Stationery,Texas,$226.00,$106.00,$120.00,$50.00,$70.00,53.10%,30.97%
+30-Nov-2023,Charlotte Adams, T Shirts ,Apparel,Arizona,$256.00,$117.00,$139.00,$77.00,$62.00,54.30%,24.22%
+01-Dec-2023,Ava Scott, Mouse Pads ,Accessories,Colorado,$201.00,$112.00,$89.00,$60.00,$29.00,44.28%,14.43%
+02-Dec-2023,Ethan Harris, Hoodies ,Apparel,Florida,$227.00,$88.00,$139.00,$54.00,$85.00,61.23%,37.44%
+03-Dec-2023,Chloe Turner, Hoodies ,Apparel,Texas,$213.00,$109.00,$104.00,$75.00,$29.00,48.83%,13.62%
+04-Dec-2023,John Smith, Letterheads ,Stationery,Arizona,$277.00,$93.00,$184.00,$54.00,$130.00,66.43%,46.93%
+05-Dec-2023,Grace Perez, Letterheads ,Stationery,Arizona,$213.00,$91.00,$122.00,$70.00,$52.00,57.28%,24.41%
+06-Dec-2023,Charlotte Adams, Mouse Pads ,Accessories,Florida,$297.00,$88.00,$209.00,$68.00,$141.00,70.37%,47.47%
+07-Dec-2023,Isabella Hill, Letterheads ,Stationery,New Jersey,$338.00,$119.00,$219.00,$50.00,$169.00,64.79%,50.00%
+08-Dec-2023,Lucas Mitchell, Letterheads ,Stationery,Texas,$289.00,$67.00,$222.00,$59.00,$163.00,76.82%,56.40%
+09-Dec-2023,Ella Cooper, T Shirts ,Apparel,Arizona,$298.00,$52.00,$246.00,$70.00,$176.00,82.55%,59.06%
+10-Dec-2023,Henry Roberts, Hoodies ,Apparel,Arizona,$280.00,$82.00,$198.00,$54.00,$144.00,70.71%,51.43%
+11-Dec-2023,Sophia Clark, Business Cards ,Stationery,Florida,$243.00,$55.00,$188.00,$57.00,$131.00,77.37%,53.91%
+12-Dec-2023,Emily Davis, Mouse Pads ,Accessories,New Jersey,$292.00,$69.00,$223.00,$70.00,$153.00,76.37%,52.40%
+13-Dec-2023,Chloe Turner, Hoodies ,Apparel,New Jersey,$234.00,$112.00,$122.00,$51.00,$71.00,52.14%,30.34%
+14-Dec-2023,Sophia Clark, Business Cards ,Stationery,Colorado,$281.00,$64.00,$217.00,$54.00,$163.00,77.22%,58.01%
+15-Dec-2023,Ava Scott, Business Cards ,Stationery,Florida,$269.00,$86.00,$183.00,$79.00,$104.00,68.03%,38.66%
+16-Dec-2023,Lily Rogers, T Shirts ,Apparel,Colorado,$334.00,$92.00,$242.00,$57.00,$185.00,72.46%,55.39%
+17-Dec-2023,Chloe Turner, Letterheads ,Stationery,Colorado,$263.00,$55.00,$208.00,$54.00,$154.00,79.09%,58.56%
+18-Dec-2023,Ella Cooper, T Shirts ,Apparel,Arizona,$277.00,$102.00,$175.00,$54.00,$121.00,63.18%,43.68%
+19-Dec-2023,Alexander Wright, T Shirts ,Apparel,Texas,$206.00,$75.00,$131.00,$64.00,$67.00,63.59%,32.52%
+20-Dec-2023,Sophia Clark, Business Cards ,Stationery,Florida,$300.00,$81.00,$219.00,$71.00,$148.00,73.00%,49.33%
+21-Dec-2023,Emily Davis, Letterheads ,Stationery,New Jersey,$247.00,$80.00,$167.00,$60.00,$107.00,67.61%,43.32%
+22-Dec-2023,Ella Cooper, Hoodies ,Apparel,Arizona,$301.00,$106.00,$195.00,$55.00,$140.00,64.78%,46.51%
+23-Dec-2023,Benjamin Carter, Mouse Pads ,Accessories,Florida,$326.00,$85.00,$241.00,$78.00,$163.00,73.93%,50.00%
+24-Dec-2023,James Lewis, Business Cards ,Stationery,Arizona,$346.00,$118.00,$228.00,$58.00,$170.00,65.90%,49.13%
+25-Dec-2023,Emily Davis, Letterheads ,Stationery,Texas,$313.00,$95.00,$218.00,$80.00,$138.00,69.65%,44.09%
+26-Dec-2023,Alexander Wright, Mouse Pads ,Accessories,New Jersey,$320.00,$90.00,$230.00,$73.00,$157.00,71.88%,49.06%
+27-Dec-2023,Sophia Clark, Phone Cases ,Accessories,Florida,$224.00,$61.00,$163.00,$80.00,$83.00,72.77%,37.05%
+28-Dec-2023,Chloe Turner, T Shirts ,Apparel,New Jersey,$254.00,$108.00,$146.00,$64.00,$82.00,57.48%,32.28%
+29-Dec-2023,Henry Roberts, Letterheads ,Stationery,Texas,$331.00,$99.00,$232.00,$60.00,$172.00,70.09%,51.96%
+30-Dec-2023,Ethan Harris, Mouse Pads ,Accessories,Arizona,$348.00,$56.00,$292.00,$70.00,$222.00,83.91%,63.79%
+31-Dec-2023,Sophia Clark, T Shirts ,Apparel,Florida,$263.00,$60.00,$203.00,$76.00,$127.00,77.19%,48.29%
+01-Jan-2024,Jane Doe, Mouse Pads ,Accessories,Texas,$248.00,$149.00,$99.00,$72.00,$27.00,39.92%,10.89%
+02-Jan-2024,Samuel Phillips, Business Cards ,Stationery,New Jersey,$154.00,$128.00,$26.00,$78.00,-$52.00,16.88%,-33.77%
+03-Jan-2024,Sarah Johnson, Letterheads ,Stationery,Colorado,$222.00,$104.00,$118.00,$63.00,$55.00,53.15%,24.77%
+04-Jan-2024,Emma Parker, Hoodies ,Apparel,Florida,$168.00,$123.00,$45.00,$60.00,-$15.00,26.79%,-8.93%
+05-Jan-2024,Michael Brown, T Shirts ,Apparel,Texas,$212.00,$129.00,$83.00,$60.00,$23.00,39.15%,10.85%
+06-Jan-2024,Charlotte Adams, Mouse Pads ,Accessories,Texas,$262.00,$148.00,$114.00,$66.00,$48.00,43.51%,18.32%
+07-Jan-2024,Ava Scott, Mouse Pads ,Accessories,New Jersey,$210.00,$113.00,$97.00,$60.00,$37.00,46.19%,17.62%
+08-Jan-2024,Samuel Phillips, T Shirts ,Apparel,Florida,$331.00,$74.00,$257.00,$69.00,$188.00,77.64%,56.80%
+09-Jan-2024,Amelia Baker, Phone Cases ,Accessories,Florida,$317.00,$130.00,$187.00,$60.00,$127.00,58.99%,40.06%
+10-Jan-2024,Sophia Clark, Business Cards ,Stationery,New Jersey,$177.00,$134.00,$43.00,$72.00,-$29.00,24.29%,-16.38%
+11-Jan-2024,Olivia Taylor, Phone Cases ,Accessories,Arizona,$161.00,$149.00,$12.00,$64.00,-$52.00,7.45%,-32.30%
+12-Jan-2024,Jane Doe, Business Cards ,Stationery,Texas,$293.00,$95.00,$198.00,$59.00,$139.00,67.58%,47.44%
+13-Jan-2024,David Wilson, T Shirts ,Apparel,Colorado,$325.00,$60.00,$265.00,$51.00,$214.00,81.54%,65.85%
+14-Jan-2024,Jane Doe, Phone Cases ,Accessories,New Jersey,$294.00,$99.00,$195.00,$77.00,$118.00,66.33%,40.14%
+15-Jan-2024,Sophia Clark, Letterheads ,Stationery,New Jersey,$296.00,$116.00,$180.00,$52.00,$128.00,60.81%,43.24%
+16-Jan-2024,William Allen, Letterheads ,Stationery,Florida,$271.00,$138.00,$133.00,$69.00,$64.00,49.08%,23.62%
+17-Jan-2024,Michael Brown, Hoodies ,Apparel,Arizona,$240.00,$84.00,$156.00,$50.00,$106.00,65.00%,44.17%
+18-Jan-2024,Ella Cooper, Letterheads ,Stationery,Arizona,$166.00,$109.00,$57.00,$51.00,$6.00,34.34%,3.61%
+19-Jan-2024,Mia Thompson, Mouse Pads ,Accessories,New Jersey,$311.00,$143.00,$168.00,$53.00,$115.00,54.02%,36.98%
+20-Jan-2024,Isabella Hill, Business Cards ,Stationery,Florida,$290.00,$55.00,$235.00,$57.00,$178.00,81.03%,61.38%
+21-Jan-2024,Lucas Mitchell, Letterheads ,Stationery,Colorado,$265.00,$81.00,$184.00,$73.00,$111.00,69.43%,41.89%
+22-Jan-2024,Amelia Baker, Hoodies ,Apparel,Florida,$225.00,$141.00,$84.00,$54.00,$30.00,37.33%,13.33%
+23-Jan-2024,Jane Doe, Mouse Pads ,Accessories,Colorado,$181.00,$53.00,$128.00,$57.00,$71.00,70.72%,39.23%
+24-Jan-2024,William Allen, T Shirts ,Apparel,Texas,$241.00,$122.00,$119.00,$62.00,$57.00,49.38%,23.65%
+25-Jan-2024,Ethan Harris, Hoodies ,Apparel,Arizona,$195.00,$56.00,$139.00,$62.00,$77.00,71.28%,39.49%
+26-Jan-2024,Isabella Hill, Mouse Pads ,Accessories,Florida,$198.00,$117.00,$81.00,$54.00,$27.00,40.91%,13.64%
+27-Jan-2024,Jacob Stewart, Phone Cases ,Accessories,Florida,$276.00,$61.00,$215.00,$58.00,$157.00,77.90%,56.88%
+28-Jan-2024,Alexander Wright, T Shirts ,Apparel,Florida,$274.00,$76.00,$198.00,$74.00,$124.00,72.26%,45.26%
+29-Jan-2024,Alexander Wright, Hoodies ,Apparel,Arizona,$229.00,$54.00,$175.00,$77.00,$98.00,76.42%,42.79%
+30-Jan-2024,Benjamin Carter, Letterheads ,Stationery,Texas,$175.00,$72.00,$103.00,$53.00,$50.00,58.86%,28.57%
+31-Jan-2024,Sophia Clark, Business Cards ,Stationery,Colorado,$302.00,$144.00,$158.00,$75.00,$83.00,52.32%,27.48%
+01-Feb-2024,Ava Scott, Phone Cases ,Accessories,Colorado,$255.00,$52.00,$203.00,$80.00,$123.00,79.61%,48.24%
+02-Feb-2024,Sophia Clark, Letterheads ,Stationery,Texas,$291.00,$69.00,$222.00,$67.00,$155.00,76.29%,53.26%
+03-Feb-2024,Lily Rogers, Letterheads ,Stationery,Arizona,$258.00,$106.00,$152.00,$73.00,$79.00,58.91%,30.62%
+04-Feb-2024,Ethan Harris, Letterheads ,Stationery,New Jersey,$193.00,$95.00,$98.00,$70.00,$28.00,50.78%,14.51%
+05-Feb-2024,Emily Davis, Hoodies ,Apparel,Florida,$178.00,$133.00,$45.00,$59.00,-$14.00,25.28%,-7.87%
+06-Feb-2024,Sarah Johnson, Mouse Pads ,Accessories,Texas,$189.00,$75.00,$114.00,$54.00,$60.00,60.32%,31.75%
+07-Feb-2024,Lily Rogers, Mouse Pads ,Accessories,New Jersey,$276.00,$117.00,$159.00,$57.00,$102.00,57.61%,36.96%
+08-Feb-2024,Lucas Mitchell, T Shirts ,Apparel,Texas,$312.00,$94.00,$218.00,$54.00,$164.00,69.87%,52.56%
+09-Feb-2024,Ava Scott, Business Cards ,Stationery,New Jersey,$171.00,$64.00,$107.00,$59.00,$48.00,62.57%,28.07%
+10-Feb-2024,John Smith, Letterheads ,Stationery,New Jersey,$191.00,$130.00,$61.00,$62.00,-$1.00,31.94%,-0.52%
+11-Feb-2024,Henry Roberts, Phone Cases ,Accessories,Texas,$300.00,$90.00,$210.00,$64.00,$146.00,70.00%,48.67%
+12-Feb-2024,William Allen, T Shirts ,Apparel,Texas,$312.00,$106.00,$206.00,$52.00,$154.00,66.03%,49.36%
+13-Feb-2024,Noah Martinez, T Shirts ,Apparel,Florida,$156.00,$90.00,$66.00,$53.00,$13.00,42.31%,8.33%
+14-Feb-2024,Isabella Hill, T Shirts ,Apparel,New Jersey,$177.00,$69.00,$108.00,$70.00,$38.00,61.02%,21.47%
+15-Feb-2024,Sarah Johnson, Business Cards ,Stationery,Colorado,$281.00,$115.00,$166.00,$57.00,$109.00,59.07%,38.79%
+16-Feb-2024,Grace Perez, T Shirts ,Apparel,Texas,$196.00,$87.00,$109.00,$68.00,$41.00,55.61%,20.92%
+17-Feb-2024,Chloe Turner, Mouse Pads ,Accessories,Colorado,$260.00,$72.00,$188.00,$52.00,$136.00,72.31%,52.31%
+18-Feb-2024,Emma Parker, T Shirts ,Apparel,Texas,$192.00,$107.00,$85.00,$61.00,$24.00,44.27%,12.50%
+19-Feb-2024,Samuel Phillips, Letterheads ,Stationery,New Jersey,$271.00,$91.00,$180.00,$76.00,$104.00,66.42%,38.38%
+20-Feb-2024,James Lewis, Phone Cases ,Accessories,Colorado,$278.00,$102.00,$176.00,$52.00,$124.00,63.31%,44.60%
+21-Feb-2024,Chloe Turner, Letterheads ,Stationery,Arizona,$304.00,$99.00,$205.00,$56.00,$149.00,67.43%,49.01%
+22-Feb-2024,Ava Scott, Mouse Pads ,Accessories,Florida,$321.00,$107.00,$214.00,$62.00,$152.00,66.67%,47.35%
+23-Feb-2024,Grace Perez, Hoodies ,Apparel,Texas,$333.00,$56.00,$277.00,$66.00,$211.00,83.18%,63.36%
+24-Feb-2024,Sophia Clark, Mouse Pads ,Accessories,Texas,$285.00,$138.00,$147.00,$51.00,$96.00,51.58%,33.68%
+25-Feb-2024,Sophia Clark, Phone Cases ,Accessories,Colorado,$249.00,$89.00,$160.00,$63.00,$97.00,64.26%,38.96%
+26-Feb-2024,Sophia Clark, Letterheads ,Stationery,Texas,$239.00,$146.00,$93.00,$67.00,$26.00,38.91%,10.88%
+27-Feb-2024,Liam Garcia, Mouse Pads ,Accessories,Texas,$239.00,$130.00,$109.00,$56.00,$53.00,45.61%,22.18%
+28-Feb-2024,Ella Cooper, Hoodies ,Apparel,Colorado,$177.00,$135.00,$42.00,$52.00,-$10.00,23.73%,-5.65%
+29-Feb-2024,Olivia Taylor, Hoodies ,Apparel,New Jersey,$152.00,$84.00,$68.00,$74.00,-$6.00,44.74%,-3.95%
+01-Mar-2024,Ethan Harris, Mouse Pads ,Accessories,Florida,$286.00,$73.00,$213.00,$74.00,$139.00,74.48%,48.60%
+02-Mar-2024,Michael Brown, Hoodies ,Apparel,Arizona,$166.00,$115.00,$51.00,$66.00,-$15.00,30.72%,-9.04%
+03-Mar-2024,David Wilson, Business Cards ,Stationery,Florida,$164.00,$125.00,$39.00,$60.00,-$21.00,23.78%,-12.80%
+04-Mar-2024,Ethan Harris, Mouse Pads ,Accessories,Texas,$178.00,$118.00,$60.00,$68.00,-$8.00,33.71%,-4.49%
+05-Mar-2024,Chloe Turner, Letterheads ,Stationery,New Jersey,$259.00,$140.00,$119.00,$64.00,$55.00,45.95%,21.24%
+06-Mar-2024,Benjamin Carter, Hoodies ,Apparel,Florida,$262.00,$84.00,$178.00,$52.00,$126.00,67.94%,48.09%
+07-Mar-2024,Ava Scott, Mouse Pads ,Accessories,Colorado,$277.00,$77.00,$200.00,$72.00,$128.00,72.20%,46.21%
+08-Mar-2024,Benjamin Carter, Mouse Pads ,Accessories,New Jersey,$194.00,$133.00,$61.00,$58.00,$3.00,31.44%,1.55%
+09-Mar-2024,Ava Scott, Mouse Pads ,Accessories,New Jersey,$206.00,$87.00,$119.00,$61.00,$58.00,57.77%,28.16%
+10-Mar-2024,Liam Garcia, Letterheads ,Stationery,New Jersey,$308.00,$142.00,$166.00,$75.00,$91.00,53.90%,29.55%
+11-Mar-2024,Emma Parker, Letterheads ,Stationery,Arizona,$341.00,$84.00,$257.00,$77.00,$180.00,75.37%,52.79%
+12-Mar-2024,Jacob Stewart, T Shirts ,Apparel,Colorado,$282.00,$80.00,$202.00,$65.00,$137.00,71.63%,48.58%
+13-Mar-2024,Emily Davis, Business Cards ,Stationery,Texas,$217.00,$113.00,$104.00,$70.00,$34.00,47.93%,15.67%
+14-Mar-2024,Jacob Stewart, Business Cards ,Stationery,New Jersey,$258.00,$60.00,$198.00,$71.00,$127.00,76.74%,49.22%
+15-Mar-2024,Samuel Phillips, Letterheads ,Stationery,Colorado,$230.00,$50.00,$180.00,$77.00,$103.00,78.26%,44.78%
+16-Mar-2024,Sophia Clark, T Shirts ,Apparel,Florida,$183.00,$90.00,$93.00,$59.00,$34.00,50.82%,18.58%
+17-Mar-2024,John Smith, Hoodies ,Apparel,New Jersey,$229.00,$50.00,$179.00,$56.00,$123.00,78.17%,53.71%
+18-Mar-2024,Ava Scott, Business Cards ,Stationery,New Jersey,$241.00,$148.00,$93.00,$62.00,$31.00,38.59%,12.86%
+19-Mar-2024,Ava Scott, Business Cards ,Stationery,Texas,$337.00,$114.00,$223.00,$62.00,$161.00,66.17%,47.77%
+20-Mar-2024,Jacob Stewart, Mouse Pads ,Accessories,Colorado,$347.00,$72.00,$275.00,$75.00,$200.00,79.25%,57.64%
+21-Mar-2024,Ella Cooper, Phone Cases ,Accessories,Florida,$159.00,$55.00,$104.00,$64.00,$40.00,65.41%,25.16%
+22-Mar-2024,Sophia Clark, Phone Cases ,Accessories,Florida,$190.00,$137.00,$53.00,$75.00,-$22.00,27.89%,-11.58%
+23-Mar-2024,Samuel Phillips, T Shirts ,Apparel,Colorado,$162.00,$92.00,$70.00,$77.00,-$7.00,43.21%,-4.32%
+24-Mar-2024,John Smith, Phone Cases ,Accessories,Florida,$178.00,$121.00,$57.00,$74.00,-$17.00,32.02%,-9.55%
+25-Mar-2024,William Allen, Mouse Pads ,Accessories,New Jersey,$274.00,$74.00,$200.00,$50.00,$150.00,72.99%,54.74%
+26-Mar-2024,Ava Scott, Mouse Pads ,Accessories,Florida,$203.00,$91.00,$112.00,$64.00,$48.00,55.17%,23.65%
+27-Mar-2024,William Allen, Phone Cases ,Accessories,Texas,$191.00,$138.00,$53.00,$72.00,-$19.00,27.75%,-9.95%
+28-Mar-2024,Sarah Johnson, Mouse Pads ,Accessories,Florida,$249.00,$52.00,$197.00,$69.00,$128.00,79.12%,51.41%
+29-Mar-2024,Ethan Harris, Hoodies ,Apparel,Florida,$336.00,$120.00,$216.00,$61.00,$155.00,64.29%,46.13%
+30-Mar-2024,William Allen, Hoodies ,Apparel,Colorado,$333.00,$84.00,$249.00,$74.00,$175.00,74.77%,52.55%
+31-Mar-2024,Jane Doe, Business Cards ,Stationery,Colorado,$323.00,$88.00,$235.00,$76.00,$159.00,72.76%,49.23%
+01-Apr-2024,Charlotte Adams, Business Cards ,Stationery,New Jersey,$164.00,$112.00,$52.00,$67.00,-$15.00,31.71%,-9.15%
+02-Apr-2024,Michael Brown, Mouse Pads ,Accessories,Texas,$227.00,$122.00,$105.00,$55.00,$50.00,46.26%,22.03%
+03-Apr-2024,Ava Scott, Business Cards ,Stationery,Arizona,$285.00,$129.00,$156.00,$52.00,$104.00,54.74%,36.49%
+04-Apr-2024,Chloe Turner, Letterheads ,Stationery,New Jersey,$343.00,$118.00,$225.00,$63.00,$162.00,65.60%,47.23%
+05-Apr-2024,Samuel Phillips, Mouse Pads ,Accessories,Florida,$235.00,$104.00,$131.00,$67.00,$64.00,55.74%,27.23%
+06-Apr-2024,Emma Parker, Hoodies ,Apparel,Arizona,$189.00,$80.00,$109.00,$66.00,$43.00,57.67%,22.75%
+07-Apr-2024,Liam Garcia, Letterheads ,Stationery,Colorado,$243.00,$66.00,$177.00,$51.00,$126.00,72.84%,51.85%
+08-Apr-2024,Isabella Hill, Business Cards ,Stationery,New Jersey,$216.00,$121.00,$95.00,$75.00,$20.00,43.98%,9.26%
+09-Apr-2024,John Smith, Hoodies ,Apparel,Texas,$330.00,$108.00,$222.00,$66.00,$156.00,67.27%,47.27%
+10-Apr-2024,James Lewis, T Shirts ,Apparel,Arizona,$266.00,$144.00,$122.00,$68.00,$54.00,45.86%,20.30%
+11-Apr-2024,Ella Cooper, Mouse Pads ,Accessories,New Jersey,$181.00,$110.00,$71.00,$77.00,-$6.00,39.23%,-3.31%
+12-Apr-2024,Amelia Baker, Mouse Pads ,Accessories,Florida,$346.00,$124.00,$222.00,$66.00,$156.00,64.16%,45.09%
+13-Apr-2024,Amelia Baker, Letterheads ,Stationery,Colorado,$325.00,$129.00,$196.00,$65.00,$131.00,60.31%,40.31%
+14-Apr-2024,Chloe Turner, T Shirts ,Apparel,Texas,$201.00,$102.00,$99.00,$72.00,$27.00,49.25%,13.43%
+15-Apr-2024,Emily Davis, Letterheads ,Stationery,Colorado,$296.00,$80.00,$216.00,$71.00,$145.00,72.97%,48.99%
+16-Apr-2024,Samuel Phillips, T Shirts ,Apparel,Arizona,$183.00,$83.00,$100.00,$70.00,$30.00,54.64%,16.39%
+17-Apr-2024,Ella Cooper, Letterheads ,Stationery,Florida,$328.00,$112.00,$216.00,$71.00,$145.00,65.85%,44.21%
+18-Apr-2024,Charlotte Adams, Business Cards ,Stationery,Arizona,$241.00,$125.00,$116.00,$71.00,$45.00,48.13%,18.67%
+19-Apr-2024,John Smith, Phone Cases ,Accessories,Colorado,$187.00,$119.00,$68.00,$55.00,$13.00,36.36%,6.95%
+20-Apr-2024,Ethan Harris, Hoodies ,Apparel,Texas,$333.00,$83.00,$250.00,$65.00,$185.00,75.08%,55.56%
+21-Apr-2024,Amelia Baker, Mouse Pads ,Accessories,Arizona,$322.00,$59.00,$263.00,$62.00,$201.00,81.68%,62.42%
+22-Apr-2024,John Smith, Phone Cases ,Accessories,Texas,$263.00,$84.00,$179.00,$70.00,$109.00,68.06%,41.44%
+23-Apr-2024,Lucas Mitchell, Business Cards ,Stationery,Florida,$301.00,$87.00,$214.00,$74.00,$140.00,71.10%,46.51%
+24-Apr-2024,Henry Roberts, Letterheads ,Stationery,Colorado,$272.00,$90.00,$182.00,$64.00,$118.00,66.91%,43.38%
+25-Apr-2024,Lily Rogers, Business Cards ,Stationery,Arizona,$301.00,$90.00,$211.00,$67.00,$144.00,70.10%,47.84%
+26-Apr-2024,Jacob Stewart, T Shirts ,Apparel,New Jersey,$313.00,$142.00,$171.00,$69.00,$102.00,54.63%,32.59%
+27-Apr-2024,John Smith, Business Cards ,Stationery,Florida,$281.00,$100.00,$181.00,$77.00,$104.00,64.41%,37.01%
+28-Apr-2024,Henry Roberts, T Shirts ,Apparel,Texas,$348.00,$85.00,$263.00,$76.00,$187.00,75.57%,53.74%
+29-Apr-2024,Lucas Mitchell, Phone Cases ,Accessories,Arizona,$314.00,$110.00,$204.00,$77.00,$127.00,64.97%,40.45%
+30-Apr-2024,John Smith, T Shirts ,Apparel,Arizona,$274.00,$56.00,$218.00,$70.00,$148.00,79.56%,54.01%
+01-May-2024,Henry Roberts, Mouse Pads ,Accessories,Arizona,$165.00,$138.00,$27.00,$71.00,-$44.00,16.36%,-26.67%
+02-May-2024,Noah Martinez, Mouse Pads ,Accessories,Colorado,$240.00,$64.00,$176.00,$76.00,$100.00,73.33%,41.67%
+03-May-2024,Benjamin Carter, Mouse Pads ,Accessories,Arizona,$299.00,$63.00,$236.00,$70.00,$166.00,78.93%,55.52%
+04-May-2024,Emma Parker, Mouse Pads ,Accessories,Colorado,$263.00,$109.00,$154.00,$70.00,$84.00,58.56%,31.94%
+05-May-2024,Emily Davis, Letterheads ,Stationery,Texas,$178.00,$110.00,$68.00,$74.00,-$6.00,38.20%,-3.37%
+06-May-2024,Amelia Baker, Letterheads ,Stationery,Colorado,$166.00,$106.00,$60.00,$57.00,$3.00,36.14%,1.81%
+07-May-2024,Henry Roberts, Mouse Pads ,Accessories,New Jersey,$226.00,$80.00,$146.00,$75.00,$71.00,64.60%,31.42%
+08-May-2024,Ava Scott, Letterheads ,Stationery,Texas,$344.00,$64.00,$280.00,$64.00,$216.00,81.40%,62.79%
+09-May-2024,Michael Brown, T Shirts ,Apparel,Arizona,$231.00,$105.00,$126.00,$75.00,$51.00,54.55%,22.08%
+10-May-2024,Ella Cooper, Phone Cases ,Accessories,Texas,$248.00,$84.00,$164.00,$50.00,$114.00,66.13%,45.97%
+11-May-2024,Michael Brown, Letterheads ,Stationery,Texas,$164.00,$81.00,$83.00,$79.00,$4.00,50.61%,2.44%
+12-May-2024,Grace Perez, T Shirts ,Apparel,New Jersey,$175.00,$76.00,$99.00,$54.00,$45.00,56.57%,25.71%
+13-May-2024,Mia Thompson, Business Cards ,Stationery,Florida,$307.00,$91.00,$216.00,$56.00,$160.00,70.36%,52.12%
+14-May-2024,Olivia Taylor, T Shirts ,Apparel,Texas,$240.00,$80.00,$160.00,$59.00,$101.00,66.67%,42.08%
+15-May-2024,Emily Davis, Letterheads ,Stationery,Colorado,$222.00,$101.00,$121.00,$59.00,$62.00,54.50%,27.93%
+16-May-2024,Emily Davis, Letterheads ,Stationery,Florida,$186.00,$55.00,$131.00,$68.00,$63.00,70.43%,33.87%
+17-May-2024,Lily Rogers, Hoodies ,Apparel,Colorado,$335.00,$66.00,$269.00,$57.00,$212.00,80.30%,63.28%
+18-May-2024,Lily Rogers, Phone Cases ,Accessories,Texas,$185.00,$130.00,$55.00,$78.00,-$23.00,29.73%,-12.43%
+19-May-2024,Grace Perez, Mouse Pads ,Accessories,Arizona,$222.00,$102.00,$120.00,$76.00,$44.00,54.05%,19.82%
+20-May-2024,Jane Doe, Business Cards ,Stationery,Arizona,$222.00,$82.00,$140.00,$70.00,$70.00,63.06%,31.53%
+21-May-2024,Liam Garcia, Hoodies ,Apparel,Florida,$288.00,$56.00,$232.00,$74.00,$158.00,80.56%,54.86%
+22-May-2024,Jacob Stewart, Business Cards ,Stationery,Arizona,$267.00,$138.00,$129.00,$75.00,$54.00,48.31%,20.22%
+23-May-2024,Alexander Wright, Business Cards ,Stationery,Arizona,$224.00,$86.00,$138.00,$57.00,$81.00,61.61%,36.16%
+24-May-2024,Lily Rogers, Letterheads ,Stationery,Texas,$191.00,$56.00,$135.00,$78.00,$57.00,70.68%,29.84%
+25-May-2024,Mia Thompson, Phone Cases ,Accessories,New Jersey,$322.00,$104.00,$218.00,$77.00,$141.00,67.70%,43.79%
+26-May-2024,Liam Garcia, Letterheads ,Stationery,Texas,$271.00,$50.00,$221.00,$76.00,$145.00,81.55%,53.51%
+27-May-2024,Ella Cooper, Business Cards ,Stationery,Colorado,$345.00,$124.00,$221.00,$50.00,$171.00,64.06%,49.57%
+28-May-2024,Ethan Harris, Hoodies ,Apparel,Florida,$332.00,$94.00,$238.00,$62.00,$176.00,71.69%,53.01%
+29-May-2024,Ella Cooper, Mouse Pads ,Accessories,Florida,$170.00,$131.00,$39.00,$75.00,-$36.00,22.94%,-21.18%
+30-May-2024,Mia Thompson, T Shirts ,Apparel,Florida,$337.00,$66.00,$271.00,$67.00,$204.00,80.42%,60.53%
+31-May-2024,Isabella Hill, Hoodies ,Apparel,New Jersey,$236.00,$116.00,$120.00,$55.00,$65.00,50.85%,27.54%
+01-Jun-2024,James Lewis, Hoodies ,Apparel,Arizona,$254.00,$111.00,$143.00,$57.00,$86.00,56.30%,33.86%
+02-Jun-2024,Lucas Mitchell, Letterheads ,Stationery,Florida,$169.00,$123.00,$46.00,$54.00,-$8.00,27.22%,-4.73%
+03-Jun-2024,William Allen, Letterheads ,Stationery,Texas,$188.00,$53.00,$135.00,$70.00,$65.00,71.81%,34.57%
+04-Jun-2024,Mia Thompson, Business Cards ,Stationery,Florida,$226.00,$148.00,$78.00,$61.00,$17.00,34.51%,7.52%
+05-Jun-2024,William Allen, Phone Cases ,Accessories,Colorado,$186.00,$79.00,$107.00,$66.00,$41.00,57.53%,22.04%
+06-Jun-2024,Benjamin Carter, T Shirts ,Apparel,Texas,$305.00,$90.00,$215.00,$53.00,$162.00,70.49%,53.11%
+07-Jun-2024,David Wilson, Letterheads ,Stationery,New Jersey,$242.00,$94.00,$148.00,$54.00,$94.00,61.16%,38.84%
+08-Jun-2024,Chloe Turner, T Shirts ,Apparel,Arizona,$236.00,$80.00,$156.00,$68.00,$88.00,66.10%,37.29%
+09-Jun-2024,Ella Cooper, T Shirts ,Apparel,Arizona,$151.00,$111.00,$40.00,$73.00,-$33.00,26.49%,-21.85%
+10-Jun-2024,Sophia Clark, T Shirts ,Apparel,Florida,$347.00,$86.00,$261.00,$80.00,$181.00,75.22%,52.16%
+11-Jun-2024,Chloe Turner, Mouse Pads ,Accessories,Arizona,$291.00,$69.00,$222.00,$59.00,$163.00,76.29%,56.01%
+12-Jun-2024,Michael Brown, T Shirts ,Apparel,New Jersey,$347.00,$69.00,$278.00,$61.00,$217.00,80.12%,62.54%
+13-Jun-2024,Chloe Turner, Business Cards ,Stationery,New Jersey,$220.00,$96.00,$124.00,$55.00,$69.00,56.36%,31.36%
+14-Jun-2024,Grace Perez, Business Cards ,Stationery,Colorado,$196.00,$89.00,$107.00,$61.00,$46.00,54.59%,23.47%
+15-Jun-2024,Amelia Baker, Letterheads ,Stationery,Texas,$215.00,$85.00,$130.00,$64.00,$66.00,60.47%,30.70%
+16-Jun-2024,David Wilson, Letterheads ,Stationery,Florida,$238.00,$145.00,$93.00,$51.00,$42.00,39.08%,17.65%
+17-Jun-2024,Lily Rogers, Mouse Pads ,Accessories,Arizona,$258.00,$137.00,$121.00,$52.00,$69.00,46.90%,26.74%
+18-Jun-2024,Liam Garcia, Letterheads ,Stationery,Texas,$271.00,$131.00,$140.00,$68.00,$72.00,51.66%,26.57%
+19-Jun-2024,Mia Thompson, Letterheads ,Stationery,New Jersey,$238.00,$70.00,$168.00,$56.00,$112.00,70.59%,47.06%
+20-Jun-2024,Mia Thompson, Letterheads ,Stationery,New Jersey,$344.00,$120.00,$224.00,$67.00,$157.00,65.12%,45.64%
+21-Jun-2024,Sophia Clark, Phone Cases ,Accessories,Florida,$168.00,$89.00,$79.00,$68.00,$11.00,47.02%,6.55%
+22-Jun-2024,Ella Cooper, Letterheads ,Stationery,Arizona,$345.00,$77.00,$268.00,$69.00,$199.00,77.68%,57.68%
+23-Jun-2024,Ella Cooper, Hoodies ,Apparel,Texas,$170.00,$94.00,$76.00,$79.00,-$3.00,44.71%,-1.76%
+24-Jun-2024,Isabella Hill, Mouse Pads ,Accessories,Colorado,$179.00,$130.00,$49.00,$63.00,-$14.00,27.37%,-7.82%
+25-Jun-2024,John Smith, T Shirts ,Apparel,Arizona,$263.00,$101.00,$162.00,$55.00,$107.00,61.60%,40.68%
+26-Jun-2024,John Smith, T Shirts ,Apparel,Texas,$170.00,$118.00,$52.00,$62.00,-$10.00,30.59%,-5.88%
+27-Jun-2024,John Smith, Business Cards ,Stationery,Texas,$290.00,$118.00,$172.00,$79.00,$93.00,59.31%,32.07%
+28-Jun-2024,William Allen, Business Cards ,Stationery,Arizona,$188.00,$106.00,$82.00,$67.00,$15.00,43.62%,7.98%
+29-Jun-2024,Michael Brown, Mouse Pads ,Accessories,Florida,$337.00,$137.00,$200.00,$60.00,$140.00,59.35%,41.54%
+30-Jun-2024,Charlotte Adams, Mouse Pads ,Accessories,Texas,$282.00,$132.00,$150.00,$67.00,$83.00,53.19%,29.43%
+01-Jul-2024,Sarah Johnson, Mouse Pads ,Accessories,Texas,$272.00,$126.00,$146.00,$69.00,$77.00,53.68%,28.31%
+02-Jul-2024,Henry Roberts, Phone Cases ,Accessories,New Jersey,$383.00,$107.00,$276.00,$60.00,$216.00,72.06%,56.40%
+03-Jul-2024,Sophia Clark, Business Cards ,Stationery,New Jersey,$261.00,$56.00,$205.00,$70.00,$135.00,78.54%,51.72%
+04-Jul-2024,Jacob Stewart, Mouse Pads ,Accessories,New Jersey,$391.00,$116.00,$275.00,$71.00,$204.00,70.33%,52.17%
+05-Jul-2024,Sarah Johnson, Phone Cases ,Accessories,Texas,$387.00,$90.00,$297.00,$80.00,$217.00,76.74%,56.07%
+06-Jul-2024,Ella Cooper, Mouse Pads ,Accessories,New Jersey,$227.00,$125.00,$102.00,$59.00,$43.00,44.93%,18.94%
+07-Jul-2024,Emma Parker, Letterheads ,Stationery,Colorado,$290.00,$85.00,$205.00,$69.00,$136.00,70.69%,46.90%
+08-Jul-2024,Henry Roberts, Phone Cases ,Accessories,New Jersey,$387.00,$69.00,$318.00,$50.00,$268.00,82.17%,69.25%
+09-Jul-2024,Sophia Clark, Hoodies ,Apparel,Florida,$304.00,$98.00,$206.00,$52.00,$154.00,67.76%,50.66%
+10-Jul-2024,Ethan Harris, T Shirts ,Apparel,New Jersey,$252.00,$58.00,$194.00,$61.00,$133.00,76.98%,52.78%
+11-Jul-2024,Ethan Harris, Hoodies ,Apparel,Arizona,$253.00,$102.00,$151.00,$70.00,$81.00,59.68%,32.02%
+12-Jul-2024,Isabella Hill, Phone Cases ,Accessories,Florida,$233.00,$128.00,$105.00,$74.00,$31.00,45.06%,13.30%
+13-Jul-2024,Alexander Wright, Business Cards ,Stationery,Texas,$228.00,$97.00,$131.00,$69.00,$62.00,57.46%,27.19%
+14-Jul-2024,Michael Brown, Business Cards ,Stationery,Colorado,$280.00,$56.00,$224.00,$60.00,$164.00,80.00%,58.57%
+15-Jul-2024,Grace Perez, Phone Cases ,Accessories,Colorado,$337.00,$58.00,$279.00,$51.00,$228.00,82.79%,67.66%
+16-Jul-2024,Henry Roberts, Letterheads ,Stationery,New Jersey,$277.00,$106.00,$171.00,$67.00,$104.00,61.73%,37.55%
+17-Jul-2024,Sophia Clark, Business Cards ,Stationery,New Jersey,$252.00,$101.00,$151.00,$79.00,$72.00,59.92%,28.57%
+18-Jul-2024,Sarah Johnson, Phone Cases ,Accessories,New Jersey,$356.00,$52.00,$304.00,$58.00,$246.00,85.39%,69.10%
+19-Jul-2024,Chloe Turner, Business Cards ,Stationery,Colorado,$249.00,$116.00,$133.00,$54.00,$79.00,53.41%,31.73%
+20-Jul-2024,Henry Roberts, Business Cards ,Stationery,Texas,$369.00,$119.00,$250.00,$75.00,$175.00,67.75%,47.43%
+21-Jul-2024,Chloe Turner, Business Cards ,Stationery,New Jersey,$281.00,$96.00,$185.00,$68.00,$117.00,65.84%,41.64%
+22-Jul-2024,Benjamin Carter, Mouse Pads ,Accessories,Florida,$265.00,$142.00,$123.00,$54.00,$69.00,46.42%,26.04%
+23-Jul-2024,Lily Rogers, Letterheads ,Stationery,Colorado,$298.00,$133.00,$165.00,$66.00,$99.00,55.37%,33.22%
+24-Jul-2024,Olivia Taylor, T Shirts ,Apparel,New Jersey,$363.00,$84.00,$279.00,$78.00,$201.00,76.86%,55.37%
+25-Jul-2024,Liam Garcia, Phone Cases ,Accessories,Colorado,$393.00,$92.00,$301.00,$64.00,$237.00,76.59%,60.31%
+26-Jul-2024,Lucas Mitchell, Mouse Pads ,Accessories,New Jersey,$340.00,$120.00,$220.00,$62.00,$158.00,64.71%,46.47%
+27-Jul-2024,David Wilson, Phone Cases ,Accessories,Florida,$201.00,$91.00,$110.00,$60.00,$50.00,54.73%,24.88%
+28-Jul-2024,Ava Scott, T Shirts ,Apparel,Arizona,$322.00,$97.00,$225.00,$76.00,$149.00,69.88%,46.27%
+29-Jul-2024,James Lewis, Mouse Pads ,Accessories,Colorado,$335.00,$62.00,$273.00,$53.00,$220.00,81.49%,65.67%
+30-Jul-2024,Benjamin Carter, Mouse Pads ,Accessories,New Jersey,$342.00,$121.00,$221.00,$73.00,$148.00,64.62%,43.27%
+31-Jul-2024,Samuel Phillips, Hoodies ,Apparel,New Jersey,$342.00,$119.00,$223.00,$58.00,$165.00,65.20%,48.25%
+01-Aug-2024,Michael Brown, T Shirts ,Apparel,Florida,$364.00,$86.00,$278.00,$60.00,$218.00,76.37%,59.89%
+02-Aug-2024,Lucas Mitchell, Hoodies ,Apparel,New Jersey,$386.00,$92.00,$294.00,$77.00,$217.00,76.17%,56.22%
+03-Aug-2024,Jane Doe, Mouse Pads ,Accessories,Florida,$349.00,$59.00,$290.00,$55.00,$235.00,83.09%,67.34%
+04-Aug-2024,Grace Perez, Business Cards ,Stationery,Colorado,$252.00,$142.00,$110.00,$67.00,$43.00,43.65%,17.06%
+05-Aug-2024,Grace Perez, Business Cards ,Stationery,Texas,$361.00,$143.00,$218.00,$54.00,$164.00,60.39%,45.43%
+06-Aug-2024,Jacob Stewart, Hoodies ,Apparel,Florida,$233.00,$69.00,$164.00,$68.00,$96.00,70.39%,41.20%
+07-Aug-2024,Emma Parker, Mouse Pads ,Accessories,New Jersey,$336.00,$73.00,$263.00,$67.00,$196.00,78.27%,58.33%
+08-Aug-2024,Benjamin Carter, Letterheads ,Stationery,Texas,$279.00,$91.00,$188.00,$71.00,$117.00,67.38%,41.94%
+09-Aug-2024,Isabella Hill, Phone Cases ,Accessories,Colorado,$260.00,$87.00,$173.00,$63.00,$110.00,66.54%,42.31%
+10-Aug-2024,Olivia Taylor, Letterheads ,Stationery,Texas,$266.00,$52.00,$214.00,$65.00,$149.00,80.45%,56.02%
+11-Aug-2024,Jane Doe, Letterheads ,Stationery,Arizona,$382.00,$82.00,$300.00,$67.00,$233.00,78.53%,60.99%
+12-Aug-2024,Lucas Mitchell, T Shirts ,Apparel,Arizona,$344.00,$126.00,$218.00,$72.00,$146.00,63.37%,42.44%
+13-Aug-2024,Ethan Harris, T Shirts ,Apparel,Arizona,$284.00,$117.00,$167.00,$55.00,$112.00,58.80%,39.44%
+14-Aug-2024,Ella Cooper, Business Cards ,Stationery,Florida,$391.00,$105.00,$286.00,$61.00,$225.00,73.15%,57.54%
+15-Aug-2024,Alexander Wright, Mouse Pads ,Accessories,New Jersey,$233.00,$94.00,$139.00,$74.00,$65.00,59.66%,27.90%
+16-Aug-2024,Lily Rogers, Phone Cases ,Accessories,Colorado,$292.00,$145.00,$147.00,$77.00,$70.00,50.34%,23.97%
+17-Aug-2024,Lily Rogers, Business Cards ,Stationery,Texas,$304.00,$144.00,$160.00,$79.00,$81.00,52.63%,26.64%
+18-Aug-2024,Sophia Clark, T Shirts ,Apparel,Texas,$242.00,$112.00,$130.00,$64.00,$66.00,53.72%,27.27%
+19-Aug-2024,Jacob Stewart, Phone Cases ,Accessories,New Jersey,$258.00,$78.00,$180.00,$79.00,$101.00,69.77%,39.15%
+20-Aug-2024,Alexander Wright, Business Cards ,Stationery,Colorado,$248.00,$95.00,$153.00,$72.00,$81.00,61.69%,32.66%
+21-Aug-2024,Liam Garcia, Mouse Pads ,Accessories,Colorado,$254.00,$68.00,$186.00,$62.00,$124.00,73.23%,48.82%
+22-Aug-2024,Mia Thompson, Phone Cases ,Accessories,Arizona,$337.00,$95.00,$242.00,$57.00,$185.00,71.81%,54.90%
+23-Aug-2024,Sophia Clark, Business Cards ,Stationery,Texas,$323.00,$97.00,$226.00,$50.00,$176.00,69.97%,54.49%
+24-Aug-2024,Benjamin Carter, Hoodies ,Apparel,Arizona,$289.00,$87.00,$202.00,$52.00,$150.00,69.90%,51.90%
+25-Aug-2024,Emma Parker, T Shirts ,Apparel,Florida,$334.00,$101.00,$233.00,$70.00,$163.00,69.76%,48.80%
+26-Aug-2024,David Wilson, T Shirts ,Apparel,Colorado,$387.00,$69.00,$318.00,$54.00,$264.00,82.17%,68.22%
+27-Aug-2024,Isabella Hill, Business Cards ,Stationery,Colorado,$230.00,$87.00,$143.00,$56.00,$87.00,62.17%,37.83%
+28-Aug-2024,Henry Roberts, T Shirts ,Apparel,Texas,$296.00,$148.00,$148.00,$61.00,$87.00,50.00%,29.39%
+29-Aug-2024,Lucas Mitchell, Hoodies ,Apparel,Texas,$364.00,$136.00,$228.00,$66.00,$162.00,62.64%,44.51%
+30-Aug-2024,Chloe Turner, T Shirts ,Apparel,Arizona,$296.00,$145.00,$151.00,$61.00,$90.00,51.01%,30.41%
+31-Aug-2024,William Allen, Hoodies ,Apparel,Texas,$367.00,$121.00,$246.00,$73.00,$173.00,67.03%,47.14%
+01-Sep-2024,Samuel Phillips, Letterheads ,Stationery,Texas,$268.00,$80.00,$188.00,$53.00,$135.00,70.15%,50.37%
+02-Sep-2024,John Smith, Phone Cases ,Accessories,Arizona,$242.00,$70.00,$172.00,$50.00,$122.00,71.07%,50.41%
+03-Sep-2024,Emma Parker, T Shirts ,Apparel,Texas,$365.00,$135.00,$230.00,$51.00,$179.00,63.01%,49.04%
+04-Sep-2024,Ava Scott, Business Cards ,Stationery,Arizona,$362.00,$68.00,$294.00,$80.00,$214.00,81.22%,59.12%
+05-Sep-2024,William Allen, Phone Cases ,Accessories,Florida,$287.00,$81.00,$206.00,$72.00,$134.00,71.78%,46.69%
+06-Sep-2024,Olivia Taylor, T Shirts ,Apparel,Arizona,$314.00,$103.00,$211.00,$69.00,$142.00,67.20%,45.22%
+07-Sep-2024,Sophia Clark, Business Cards ,Stationery,New Jersey,$274.00,$97.00,$177.00,$77.00,$100.00,64.60%,36.50%
+08-Sep-2024,Liam Garcia, Hoodies ,Apparel,Arizona,$217.00,$86.00,$131.00,$79.00,$52.00,60.37%,23.96%
+09-Sep-2024,Sarah Johnson, T Shirts ,Apparel,Texas,$327.00,$98.00,$229.00,$79.00,$150.00,70.03%,45.87%
+10-Sep-2024,Noah Martinez, Business Cards ,Stationery,Arizona,$277.00,$112.00,$165.00,$72.00,$93.00,59.57%,33.57%
+11-Sep-2024,Sarah Johnson, Hoodies ,Apparel,Texas,$222.00,$146.00,$76.00,$55.00,$21.00,34.23%,9.46%
+12-Sep-2024,Lucas Mitchell, Letterheads ,Stationery,New Jersey,$214.00,$135.00,$79.00,$77.00,$2.00,36.92%,0.93%
+13-Sep-2024,David Wilson, Phone Cases ,Accessories,Florida,$364.00,$148.00,$216.00,$66.00,$150.00,59.34%,41.21%
+14-Sep-2024,James Lewis, Phone Cases ,Accessories,New Jersey,$232.00,$63.00,$169.00,$68.00,$101.00,72.84%,43.53%
+15-Sep-2024,Benjamin Carter, Mouse Pads ,Accessories,Florida,$390.00,$73.00,$317.00,$78.00,$239.00,81.28%,61.28%
+16-Sep-2024,Michael Brown, Phone Cases ,Accessories,New Jersey,$381.00,$132.00,$249.00,$58.00,$191.00,65.35%,50.13%
+17-Sep-2024,William Allen, Business Cards ,Stationery,Colorado,$200.00,$67.00,$133.00,$64.00,$69.00,66.50%,34.50%
+18-Sep-2024,Grace Perez, Letterheads ,Stationery,Colorado,$324.00,$124.00,$200.00,$78.00,$122.00,61.73%,37.65%
+19-Sep-2024,Lily Rogers, Phone Cases ,Accessories,Texas,$247.00,$143.00,$104.00,$77.00,$27.00,42.11%,10.93%
+20-Sep-2024,Charlotte Adams, Phone Cases ,Accessories,Colorado,$257.00,$83.00,$174.00,$58.00,$116.00,67.70%,45.14%
+21-Sep-2024,Samuel Phillips, Mouse Pads ,Accessories,New Jersey,$253.00,$52.00,$201.00,$75.00,$126.00,79.45%,49.80%
+22-Sep-2024,Noah Martinez, Hoodies ,Apparel,Florida,$265.00,$101.00,$164.00,$51.00,$113.00,61.89%,42.64%
+23-Sep-2024,Chloe Turner, Mouse Pads ,Accessories,New Jersey,$208.00,$55.00,$153.00,$68.00,$85.00,73.56%,40.87%
+24-Sep-2024,Chloe Turner, Letterheads ,Stationery,New Jersey,$224.00,$125.00,$99.00,$73.00,$26.00,44.20%,11.61%
+25-Sep-2024,Henry Roberts, Mouse Pads ,Accessories,New Jersey,$267.00,$96.00,$171.00,$63.00,$108.00,64.04%,40.45%
+26-Sep-2024,Jane Doe, Business Cards ,Stationery,Colorado,$357.00,$118.00,$239.00,$76.00,$163.00,66.95%,45.66%
+27-Sep-2024,Chloe Turner, Letterheads ,Stationery,New Jersey,$229.00,$55.00,$174.00,$67.00,$107.00,75.98%,46.72%
+28-Sep-2024,David Wilson, Hoodies ,Apparel,New Jersey,$237.00,$131.00,$106.00,$68.00,$38.00,44.73%,16.03%
+29-Sep-2024,Benjamin Carter, Hoodies ,Apparel,Florida,$326.00,$72.00,$254.00,$64.00,$190.00,77.91%,58.28%
+30-Sep-2024,Ava Scott, Phone Cases ,Accessories,Florida,$302.00,$78.00,$224.00,$80.00,$144.00,74.17%,47.68%
+01-Oct-2024,Sophia Clark, Letterheads ,Stationery,Texas,$303.00,$105.00,$198.00,$66.00,$132.00,65.35%,43.56%
+02-Oct-2024,Ava Scott, Mouse Pads ,Accessories,Colorado,$249.00,$114.00,$135.00,$50.00,$85.00,54.22%,34.14%
+03-Oct-2024,Henry Roberts, Business Cards ,Stationery,Arizona,$396.00,$117.00,$279.00,$57.00,$222.00,70.45%,56.06%
+04-Oct-2024,Liam Garcia, T Shirts ,Apparel,Texas,$313.00,$137.00,$176.00,$57.00,$119.00,56.23%,38.02%
+05-Oct-2024,John Smith, Mouse Pads ,Accessories,Arizona,$250.00,$143.00,$107.00,$64.00,$43.00,42.80%,17.20%
+06-Oct-2024,Liam Garcia, Letterheads ,Stationery,Florida,$235.00,$50.00,$185.00,$79.00,$106.00,78.72%,45.11%
+07-Oct-2024,Mia Thompson, Hoodies ,Apparel,Colorado,$202.00,$63.00,$139.00,$51.00,$88.00,68.81%,43.56%
+08-Oct-2024,Mia Thompson, Business Cards ,Stationery,Colorado,$361.00,$116.00,$245.00,$55.00,$190.00,67.87%,52.63%
+09-Oct-2024,Mia Thompson, Letterheads ,Stationery,Florida,$328.00,$51.00,$277.00,$61.00,$216.00,84.45%,65.85%
+10-Oct-2024,Isabella Hill, Business Cards ,Stationery,Texas,$210.00,$92.00,$118.00,$68.00,$50.00,56.19%,23.81%
+11-Oct-2024,David Wilson, Mouse Pads ,Accessories,Florida,$293.00,$100.00,$193.00,$72.00,$121.00,65.87%,41.30%
+12-Oct-2024,Chloe Turner, T Shirts ,Apparel,New Jersey,$254.00,$54.00,$200.00,$72.00,$128.00,78.74%,50.39%
+13-Oct-2024,Grace Perez, Hoodies ,Apparel,Colorado,$205.00,$79.00,$126.00,$68.00,$58.00,61.46%,28.29%
+14-Oct-2024,Ethan Harris, Business Cards ,Stationery,New Jersey,$342.00,$57.00,$285.00,$73.00,$212.00,83.33%,61.99%
+15-Oct-2024,Jacob Stewart, Letterheads ,Stationery,Colorado,$248.00,$94.00,$154.00,$69.00,$85.00,62.10%,34.27%
+16-Oct-2024,James Lewis, Letterheads ,Stationery,Florida,$275.00,$82.00,$193.00,$65.00,$128.00,70.18%,46.55%
+17-Oct-2024,Henry Roberts, Phone Cases ,Accessories,New Jersey,$305.00,$79.00,$226.00,$70.00,$156.00,74.10%,51.15%
+18-Oct-2024,Sophia Clark, Mouse Pads ,Accessories,Arizona,$201.00,$65.00,$136.00,$55.00,$81.00,67.66%,40.30%
+19-Oct-2024,Isabella Hill, T Shirts ,Apparel,Florida,$206.00,$107.00,$99.00,$59.00,$40.00,48.06%,19.42%
+20-Oct-2024,John Smith, Mouse Pads ,Accessories,Arizona,$388.00,$136.00,$252.00,$78.00,$174.00,64.95%,44.85%
+21-Oct-2024,Alexander Wright, Business Cards ,Stationery,Arizona,$317.00,$96.00,$221.00,$70.00,$151.00,69.72%,47.63%
+22-Oct-2024,David Wilson, Business Cards ,Stationery,Arizona,$370.00,$97.00,$273.00,$80.00,$193.00,73.78%,52.16%
+23-Oct-2024,Michael Brown, Hoodies ,Apparel,Texas,$377.00,$123.00,$254.00,$68.00,$186.00,67.37%,49.34%
+24-Oct-2024,James Lewis, Mouse Pads ,Accessories,Colorado,$338.00,$129.00,$209.00,$76.00,$133.00,61.83%,39.35%
+25-Oct-2024,Emily Davis, Hoodies ,Apparel,Florida,$322.00,$96.00,$226.00,$63.00,$163.00,70.19%,50.62%
+26-Oct-2024,Emma Parker, Phone Cases ,Accessories,Texas,$208.00,$53.00,$155.00,$55.00,$100.00,74.52%,48.08%
+27-Oct-2024,Henry Roberts, T Shirts ,Apparel,Colorado,$340.00,$94.00,$246.00,$79.00,$167.00,72.35%,49.12%
+28-Oct-2024,Olivia Taylor, Letterheads ,Stationery,New Jersey,$317.00,$75.00,$242.00,$52.00,$190.00,76.34%,59.94%
+29-Oct-2024,Ethan Harris, Mouse Pads ,Accessories,Colorado,$307.00,$96.00,$211.00,$56.00,$155.00,68.73%,50.49%
+30-Oct-2024,Ava Scott, Mouse Pads ,Accessories,New Jersey,$250.00,$121.00,$129.00,$73.00,$56.00,51.60%,22.40%
+31-Oct-2024,Olivia Taylor, Hoodies ,Apparel,Arizona,$226.00,$103.00,$123.00,$74.00,$49.00,54.42%,21.68%
+01-Nov-2024,Sarah Johnson, Business Cards ,Stationery,New Jersey,$223.00,$60.00,$163.00,$51.00,$112.00,73.09%,50.22%
+02-Nov-2024,Jacob Stewart, T Shirts ,Apparel,Colorado,$240.00,$73.00,$167.00,$75.00,$92.00,69.58%,38.33%
+03-Nov-2024,Ella Cooper, Phone Cases ,Accessories,Arizona,$326.00,$78.00,$248.00,$60.00,$188.00,76.07%,57.67%
+04-Nov-2024,Amelia Baker, Letterheads ,Stationery,New Jersey,$362.00,$81.00,$281.00,$62.00,$219.00,77.62%,60.50%
+05-Nov-2024,Henry Roberts, Hoodies ,Apparel,Florida,$376.00,$129.00,$247.00,$71.00,$176.00,65.69%,46.81%
+06-Nov-2024,Ethan Harris, Hoodies ,Apparel,Florida,$217.00,$124.00,$93.00,$65.00,$28.00,42.86%,12.90%
+07-Nov-2024,John Smith, T Shirts ,Apparel,Florida,$225.00,$72.00,$153.00,$57.00,$96.00,68.00%,42.67%
+08-Nov-2024,Lily Rogers, Business Cards ,Stationery,Colorado,$200.00,$91.00,$109.00,$57.00,$52.00,54.50%,26.00%
+09-Nov-2024,Samuel Phillips, Hoodies ,Apparel,Colorado,$353.00,$99.00,$254.00,$65.00,$189.00,71.95%,53.54%
+10-Nov-2024,James Lewis, T Shirts ,Apparel,Colorado,$305.00,$82.00,$223.00,$63.00,$160.00,73.11%,52.46%
+11-Nov-2024,Emma Parker, Business Cards ,Stationery,Arizona,$257.00,$100.00,$157.00,$67.00,$90.00,61.09%,35.02%
+12-Nov-2024,Sarah Johnson, Business Cards ,Stationery,Colorado,$233.00,$55.00,$178.00,$75.00,$103.00,76.39%,44.21%
+13-Nov-2024,Emma Parker, Letterheads ,Stationery,Texas,$325.00,$108.00,$217.00,$71.00,$146.00,66.77%,44.92%
+14-Nov-2024,Charlotte Adams, Letterheads ,Stationery,Arizona,$234.00,$55.00,$179.00,$60.00,$119.00,76.50%,50.85%
+15-Nov-2024,Ella Cooper, Phone Cases ,Accessories,New Jersey,$376.00,$108.00,$268.00,$78.00,$190.00,71.28%,50.53%
+16-Nov-2024,Sarah Johnson, Mouse Pads ,Accessories,New Jersey,$361.00,$80.00,$281.00,$71.00,$210.00,77.84%,58.17%
+17-Nov-2024,Michael Brown, Letterheads ,Stationery,Texas,$312.00,$95.00,$217.00,$69.00,$148.00,69.55%,47.44%
+18-Nov-2024,Charlotte Adams, Phone Cases ,Accessories,Colorado,$363.00,$67.00,$296.00,$52.00,$244.00,81.54%,67.22%
+19-Nov-2024,William Allen, Phone Cases ,Accessories,Texas,$381.00,$112.00,$269.00,$63.00,$206.00,70.60%,54.07%
+20-Nov-2024,Grace Perez, Letterheads ,Stationery,Colorado,$251.00,$69.00,$182.00,$50.00,$132.00,72.51%,52.59%
+21-Nov-2024,Michael Brown, Business Cards ,Stationery,Florida,$367.00,$106.00,$261.00,$56.00,$205.00,71.12%,55.86%
+22-Nov-2024,Olivia Taylor, Business Cards ,Stationery,Colorado,$201.00,$121.00,$80.00,$74.00,$6.00,39.80%,2.99%
+23-Nov-2024,Ella Cooper, Hoodies ,Apparel,Colorado,$301.00,$114.00,$187.00,$78.00,$109.00,62.13%,36.21%
+24-Nov-2024,Olivia Taylor, T Shirts ,Apparel,Florida,$354.00,$89.00,$265.00,$51.00,$214.00,74.86%,60.45%
+25-Nov-2024,Mia Thompson, Hoodies ,Apparel,Colorado,$206.00,$98.00,$108.00,$65.00,$43.00,52.43%,20.87%
+26-Nov-2024,Jacob Stewart, Phone Cases ,Accessories,Texas,$277.00,$127.00,$150.00,$62.00,$88.00,54.15%,31.77%
+27-Nov-2024,David Wilson, Phone Cases ,Accessories,Texas,$305.00,$112.00,$193.00,$73.00,$120.00,63.28%,39.34%
+28-Nov-2024,James Lewis, Mouse Pads ,Accessories,Colorado,$237.00,$143.00,$94.00,$74.00,$20.00,39.66%,8.44%
+29-Nov-2024,Ethan Harris, Phone Cases ,Accessories,Arizona,$259.00,$63.00,$196.00,$57.00,$139.00,75.68%,53.67%
+30-Nov-2024,Henry Roberts, Phone Cases ,Accessories,Arizona,$285.00,$100.00,$185.00,$57.00,$128.00,64.91%,44.91%
+01-Dec-2024,Sophia Clark, Hoodies ,Apparel,Colorado,$205.00,$123.00,$82.00,$80.00,$2.00,40.00%,0.98%
+02-Dec-2024,Ella Cooper, Mouse Pads ,Accessories,Texas,$254.00,$90.00,$164.00,$53.00,$111.00,64.57%,43.70%
+03-Dec-2024,Emily Davis, T Shirts ,Apparel,Arizona,$248.00,$76.00,$172.00,$77.00,$95.00,69.35%,38.31%
+04-Dec-2024,Charlotte Adams, Hoodies ,Apparel,New Jersey,$351.00,$111.00,$240.00,$67.00,$173.00,68.38%,49.29%
+05-Dec-2024,James Lewis, Phone Cases ,Accessories,New Jersey,$302.00,$97.00,$205.00,$50.00,$155.00,67.88%,51.32%
+06-Dec-2024,Isabella Hill, Hoodies ,Apparel,Colorado,$258.00,$103.00,$155.00,$67.00,$88.00,60.08%,34.11%
+07-Dec-2024,David Wilson, Letterheads ,Stationery,New Jersey,$375.00,$107.00,$268.00,$68.00,$200.00,71.47%,53.33%
+08-Dec-2024,Isabella Hill, T Shirts ,Apparel,Arizona,$372.00,$141.00,$231.00,$72.00,$159.00,62.10%,42.74%
+09-Dec-2024,Chloe Turner, Business Cards ,Stationery,Colorado,$281.00,$110.00,$171.00,$51.00,$120.00,60.85%,42.70%
+10-Dec-2024,Samuel Phillips, Letterheads ,Stationery,Colorado,$224.00,$139.00,$85.00,$50.00,$35.00,37.95%,15.63%
+11-Dec-2024,Jacob Stewart, Phone Cases ,Accessories,Texas,$356.00,$66.00,$290.00,$71.00,$219.00,81.46%,61.52%
+12-Dec-2024,Ethan Harris, Business Cards ,Stationery,Arizona,$230.00,$131.00,$99.00,$68.00,$31.00,43.04%,13.48%
+13-Dec-2024,Sarah Johnson, T Shirts ,Apparel,Colorado,$242.00,$66.00,$176.00,$54.00,$122.00,72.73%,50.41%
+14-Dec-2024,Charlotte Adams, Hoodies ,Apparel,New Jersey,$309.00,$95.00,$214.00,$62.00,$152.00,69.26%,49.19%
+15-Dec-2024,Ava Scott, Letterheads ,Stationery,Florida,$391.00,$117.00,$274.00,$75.00,$199.00,70.08%,50.90%
+16-Dec-2024,Emma Parker, Business Cards ,Stationery,Florida,$369.00,$82.00,$287.00,$78.00,$209.00,77.78%,56.64%
+17-Dec-2024,David Wilson, Phone Cases ,Accessories,New Jersey,$360.00,$143.00,$217.00,$63.00,$154.00,60.28%,42.78%
+18-Dec-2024,Ava Scott, Mouse Pads ,Accessories,Texas,$345.00,$147.00,$198.00,$50.00,$148.00,57.39%,42.90%
+19-Dec-2024,Lily Rogers, Business Cards ,Stationery,Colorado,$376.00,$68.00,$308.00,$77.00,$231.00,81.91%,61.44%
+20-Dec-2024,Ava Scott, Phone Cases ,Accessories,Florida,$223.00,$52.00,$171.00,$55.00,$116.00,76.68%,52.02%
+21-Dec-2024,James Lewis, T Shirts ,Apparel,Arizona,$303.00,$116.00,$187.00,$61.00,$126.00,61.72%,41.58%
+22-Dec-2024,Jane Doe, Business Cards ,Stationery,New Jersey,$253.00,$66.00,$187.00,$50.00,$137.00,73.91%,54.15%
+23-Dec-2024,Noah Martinez, Business Cards ,Stationery,Texas,$364.00,$96.00,$268.00,$58.00,$210.00,73.63%,57.69%
+24-Dec-2024,Henry Roberts, T Shirts ,Apparel,New Jersey,$271.00,$102.00,$169.00,$73.00,$96.00,62.36%,35.42%
+25-Dec-2024,Emily Davis, Hoodies ,Apparel,Arizona,$221.00,$108.00,$113.00,$71.00,$42.00,51.13%,19.00%
+26-Dec-2024,Alexander Wright, Letterheads ,Stationery,Florida,$243.00,$115.00,$128.00,$72.00,$56.00,52.67%,23.05%
+27-Dec-2024,Henry Roberts, Mouse Pads ,Accessories,New Jersey,$200.00,$147.00,$53.00,$79.00,-$26.00,26.50%,-13.00%
+28-Dec-2024,Sarah Johnson, Business Cards ,Stationery,Colorado,$392.00,$129.00,$263.00,$69.00,$194.00,67.09%,49.49%
+29-Dec-2024,Alexander Wright, Phone Cases ,Accessories,New Jersey,$398.00,$61.00,$337.00,$57.00,$280.00,84.67%,70.35%
+30-Dec-2024,Ava Scott, Mouse Pads ,Accessories,Arizona,$347.00,$97.00,$250.00,$72.00,$178.00,72.05%,51.30%
+31-Dec-2024,Chloe Turner, Business Cards ,Stationery,Colorado,$367.00,$50.00,$317.00,$62.00,$255.00,86.38%,69.48%
