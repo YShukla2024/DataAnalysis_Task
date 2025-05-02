@@ -1,6 +1,6 @@
 # Business Dashboard
 
-[![Dashboard link]((https://script.google.com/macros/s/AKfycbzpd_nlabfE43iKatj_N2yCnJBIAIM6xr4wLkHg6rwrJRP7qdLszEK2CRFoxG4wDgI9ow/exec ))]
+[![Dashboard link](https://script.google.com/macros/s/AKfycbzpd_nlabfE43iKatj_N2yCnJBIAIM6xr4wLkHg6rwrJRP7qdLszEK2CRFoxG4wDgI9ow/exec )]
 
 Interactive business dashboard built with Google Apps Script.
 
