@@ -78,16 +78,6 @@ This repository contains my completed tasks for the Data Analysis Internship at 
 3. Open Jupyter notebooks in respective task folders
 4. Run cells sequentially (ensure dataset files are in correct paths)
 
-## LinkedIn Engagement
-As required by Cognifyz Technologies:
-- Updated LinkedIn profile with internship details
-- Shared project highlights using hashtags: 
-  `#cognifyz #cognifyzTech #cognifyzTechnologies`
-- Created demonstration video of completed tasks
-- Tagged @Cognifyz Technologies in all posts
-
-[![LinkedIn Post](assets/linkedin-screenshot.png)](https://www.linkedin.com/your-post-link)
-
 ## Academic Integrity
 All work in this repository represents my original analysis completed during the internship. Any referenced materials or code snippets have been properly attributed.
 
